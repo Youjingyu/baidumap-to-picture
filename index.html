@@ -1,0 +1,55 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>百度地图截图</title>
+    <style type="text/css">
+        body {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+<button id="scrennshot">截图</button>
+<img crossOrigin="Anonymous" id="result" src="https://github.com/Youjingyu/canvas_flappy_bird/blob/master/img/pipe.png">
+<div style="height:1024px; width: 2048px;">
+    <div style="height:100%; width: 100%;" id="map"></div>
+</div>
+<img src="stationIcon.png" id="img" width="50" height="50">
+<canvas id="canvas" height="1024" width="2048"></canvas>
+<script src="http://www.w3school.com.cn/jquery/jquery.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://api.map.baidu.com/getscript?v=1.5&ak=9lYcbuRjQ43irvtvIZaB7rGTRBbUZpSV"></script>
+<script type="text/javascript" src="js/stationIcon.js"></script>
+<script type="text/javascript" src="js/drawMap.js"></script>
+<script>
+    GetStationData('./json/region.json', './json/station.json', function (regionList, stationList) {
+        var map = new BMap.Map("map");
+        var point = new BMap.Point(104.06667, 30.66667);
+        map.centerAndZoom(point, 8);
+        map.enableScrollWheelZoom(true);
+        var ctrlNav = new window.BMap.NavigationControl({
+            anchor: BMAP_ANCHOR_TOP_RIGHT,
+            type: BMAP_NAVIGATION_CONTROL_LARGE
+        });
+        map.addControl(ctrlNav);
+        var ctrlOve = new window.BMap.OverviewMapControl({
+            anchor: BMAP_ANCHOR_BOTTOM_RIGHT,
+            isOpen: false
+        });
+        map.addControl(ctrlOve);
+
+        var ctrlSca = new window.BMap.ScaleControl({
+            anchor: BMAP_ANCHOR_BOTTOM_LEFT
+        });
+        map.addControl(ctrlSca);
+        InitMap(map, regionList, stationList);
+    });
+
+    document.getElementById('scrennshot').addEventListener('click', function () {
+        var $imgs = document.getElementById('map').childNodes[0].childNodes[2].childNodes[0].getElementsByTagName('img');
+        var $canvas = document.getElementById('canvas');
+        window.DrawMap($imgs, $canvas);
+    });
+</script>
+</body>
+</html>

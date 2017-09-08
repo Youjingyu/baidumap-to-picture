@@ -1,0 +1,7792 @@
+[
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "29.678869",
+    "longtitude": "106.567127",
+    "vehicleNum": 0,
+    "stationName": "98库新车",
+    "id": 27,
+    "stationAddress": "力帆鸳鸯（未上线车辆）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "40.01483",
+    "longtitude": "116.491319",
+    "vehicleNum": 0,
+    "stationName": "锐创租车测试",
+    "id": 24,
+    "stationAddress": "北京市朝阳区望京东路8号"
+  },
+  {
+    "parkingNum": 6,
+    "freeVehicle": 0,
+    "latitude": "29.815537",
+    "longtitude": "106.562615",
+    "vehicleNum": 0,
+    "stationName": "思源幼儿园",
+    "id": 49,
+    "stationAddress": "思源幼儿园正门右侧"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.740851",
+    "longtitude": "106.493318",
+    "vehicleNum": 0,
+    "stationName": "蔡家旭派公寓A站",
+    "id": 432,
+    "stationAddress": "北碚区蔡家嘉瑞大道22号七栋门前"
+  },
+  {
+    "parkingNum": 30,
+    "freeVehicle": 0,
+    "latitude": "30.013815",
+    "longtitude": "106.276329",
+    "vehicleNum": 0,
+    "stationName": "宏仁医院关闭",
+    "id": 967,
+    "stationAddress": "重庆市合川区北环路28号（合川汽车客运中心旁）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.825665",
+    "longtitude": "106.531761",
+    "vehicleNum": 0,
+    "stationName": "大地企业园区",
+    "id": 50,
+    "stationAddress": "水土高新园丰和路68号（大地企业园招商中心旁）"
+  },
+  {
+    "parkingNum": 6,
+    "freeVehicle": 0,
+    "latitude": "29.798972",
+    "longtitude": "106.515081",
+    "vehicleNum": 0,
+    "stationName": "和欣佳园",
+    "id": 51,
+    "stationAddress": "水土镇和欣佳园（和欣佳园门诊部对面）"
+  },
+  {
+    "parkingNum": 0,
+    "freeVehicle": 0,
+    "latitude": "29.647056",
+    "longtitude": "106.553804",
+    "vehicleNum": 0,
+    "stationName": "力帆红星未开",
+    "id": 52,
+    "stationAddress": "金开大道与金州大道交汇处"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.673308",
+    "longtitude": "106.561812",
+    "vehicleNum": 0,
+    "stationName": "龙帆路",
+    "id": 53,
+    "stationAddress": "重庆市渝北区鸳鸯镇龙帆路（力帆4号门）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.690363",
+    "longtitude": "106.547004",
+    "vehicleNum": 0,
+    "stationName": "黄茅坪黄环北站",
+    "id": 54,
+    "stationAddress": "渝北区金山大道黄茅坪黄环北路2号力帆通机进门左侧"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.687907",
+    "longtitude": "106.545123",
+    "vehicleNum": 0,
+    "stationName": "黄茅坪金山站",
+    "id": 55,
+    "stationAddress": "渝北区金山大道668号力帆发动机进门左侧"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.751438",
+    "longtitude": "106.478989",
+    "vehicleNum": 0,
+    "stationName": "蔡家同源站",
+    "id": 56,
+    "stationAddress": "北碚区蔡家同源路16号力帆三工厂1号门"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.736473",
+    "longtitude": "106.470514",
+    "vehicleNum": 0,
+    "stationName": "蔡家凤栖站",
+    "id": 58,
+    "stationAddress": "北碚区蔡家凤栖路12号力帆二工厂进门左侧"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.574938",
+    "longtitude": "106.579716",
+    "vehicleNum": 0,
+    "stationName": "力帆中心",
+    "id": 59,
+    "stationAddress": "江北区力帆中心一楼（精美国际俱乐部前行100米）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.621194",
+    "longtitude": "106.504264",
+    "vehicleNum": 0,
+    "stationName": "重科院盼达虚拟",
+    "id": 34,
+    "stationAddress": "杨柳路"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.741081",
+    "longtitude": "106.471476",
+    "vehicleNum": 0,
+    "stationName": "力帆集团",
+    "id": 35,
+    "stationAddress": "北碚凤栖路16号（力帆集团大门进门右侧）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.621837",
+    "longtitude": "106.513858",
+    "vehicleNum": 0,
+    "stationName": "两江幸福广场未开",
+    "id": 36,
+    "stationAddress": "黄山大道"
+  },
+  {
+    "parkingNum": 1,
+    "freeVehicle": 0,
+    "latitude": "29.619763",
+    "longtitude": "106.50328",
+    "vehicleNum": 0,
+    "stationName": "重科院二虚拟",
+    "id": 46,
+    "stationAddress": "1"
+  },
+  {
+    "parkingNum": 7,
+    "freeVehicle": 0,
+    "latitude": "29.807086",
+    "longtitude": "106.534816",
+    "vehicleNum": 0,
+    "stationName": "水土管委会",
+    "id": 60,
+    "stationAddress": "北碚区重庆两江国际云计算服务中心旁"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.606615",
+    "longtitude": "106.543063",
+    "vehicleNum": 0,
+    "stationName": "力帆棠悦",
+    "id": 61,
+    "stationAddress": "新溉大道251号（力帆棠悦售楼中心对面）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.605662",
+    "longtitude": "106.550536",
+    "vehicleNum": 0,
+    "stationName": "力帆时代未开",
+    "id": 62,
+    "stationAddress": "新溉大道与东湖南路交界处（唐家院子公交车站旁）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.676531",
+    "longtitude": "106.567257",
+    "vehicleNum": 0,
+    "stationName": "金开大道园博园",
+    "id": 73,
+    "stationAddress": "渝北区金开大道1539号力帆汽车2号门"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.72141",
+    "longtitude": "106.476304",
+    "vehicleNum": 0,
+    "stationName": "力帆翡翠郡",
+    "id": 74,
+    "stationAddress": "北碚区蔡家同康路力帆·翡翠郡停车场"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.526734",
+    "longtitude": "106.462017",
+    "vehicleNum": 0,
+    "stationName": "老顶坡维修厂事故维修",
+    "id": 77,
+    "stationAddress": "存放在老顶破维修的事故车辆"
+  },
+  {
+    "parkingNum": 100,
+    "freeVehicle": 0,
+    "latitude": "29.676277",
+    "longtitude": "106.564392",
+    "vehicleNum": 0,
+    "stationName": "盼达库运营车辆",
+    "id": 81,
+    "stationAddress": "鸳鸯"
+  },
+  {
+    "parkingNum": 30,
+    "freeVehicle": 0,
+    "latitude": "29.731844",
+    "longtitude": "106.552612",
+    "vehicleNum": 0,
+    "stationName": "国博中心",
+    "id": 88,
+    "stationAddress": "重庆国际博览中心北登录厅前停车场"
+  },
+  {
+    "parkingNum": 80,
+    "freeVehicle": 0,
+    "latitude": "29.591382",
+    "longtitude": "106.541095",
+    "vehicleNum": 0,
+    "stationName": "力帆体育城",
+    "id": 75,
+    "stationAddress": "江北区洋河四路"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.809508",
+    "longtitude": "106.547831",
+    "vehicleNum": 0,
+    "stationName": "中科院",
+    "id": 71,
+    "stationAddress": "北碚区中科院重庆绿色智能技术研究院内"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "29.590011",
+    "longtitude": "106.54025",
+    "vehicleNum": 0,
+    "stationName": "力帆足球俱乐部",
+    "id": 76,
+    "stationAddress": "渝北区洋河四路力帆足球俱乐部旁停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.613486",
+    "longtitude": "106.553756",
+    "vehicleNum": 0,
+    "stationName": "重庆北站南广场",
+    "id": 79,
+    "stationAddress": "重庆北站南广场售票厅西侧(德克士龙头寺3餐厅店门口）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.43817",
+    "longtitude": "104.783814",
+    "vehicleNum": 0,
+    "stationName": "板桥小区站",
+    "id": 987,
+    "stationAddress": "四川省绵阳市经开区南湖街138号板桥小区（千岛湖大鲫鱼对面）路边停车位"
+  },
+  {
+    "parkingNum": 4,
+    "freeVehicle": 0,
+    "latitude": "29.575752",
+    "longtitude": "106.466463",
+    "vehicleNum": 0,
+    "stationName": "重大B区未开",
+    "id": 83,
+    "stationAddress": "重庆大学B区设计研究院"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.630832",
+    "longtitude": "106.536841",
+    "vehicleNum": 0,
+    "stationName": "两江天地",
+    "id": 90,
+    "stationAddress": "金开大道两江天地迪卡侬前"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.617972",
+    "longtitude": "106.316774",
+    "vehicleNum": 0,
+    "stationName": "富力城",
+    "id": 67,
+    "stationAddress": "大学城至德路（蜀湘传奇门口）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.583491",
+    "longtitude": "106.316715",
+    "vehicleNum": 0,
+    "stationName": "康居西城",
+    "id": 64,
+    "stationAddress": "康居西城公交站（苏大姐火锅店对面）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.619263",
+    "longtitude": "106.503042",
+    "vehicleNum": 0,
+    "stationName": "长租网点虚拟",
+    "id": 65,
+    "stationAddress": "仅针对长租订单"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.725069",
+    "longtitude": "106.641974",
+    "vehicleNum": 0,
+    "stationName": "江北机场",
+    "id": 72,
+    "stationAddress": "T2航站楼正对面"
+  },
+  {
+    "parkingNum": 0,
+    "freeVehicle": 0,
+    "latitude": "29.680807",
+    "longtitude": "106.566013",
+    "vehicleNum": 0,
+    "stationName": "合作单位用车",
+    "id": 86,
+    "stationAddress": "合作单位用车"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "35.054894",
+    "longtitude": "112.619151",
+    "vehicleNum": 0,
+    "stationName": "西安交大科技园站",
+    "id": 87,
+    "stationAddress": "西安交大科技园站"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.533805",
+    "longtitude": "106.511019",
+    "vehicleNum": 0,
+    "stationName": "奥体中心",
+    "id": 89,
+    "stationAddress": "奥体二支路口（看球专用）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.700538",
+    "longtitude": "106.618474",
+    "vehicleNum": 0,
+    "stationName": "回兴清明车之乐汽车主题酒店",
+    "id": 78,
+    "stationAddress": "渝北区回兴兴科大道117号(金香林对面)"
+  },
+  {
+    "parkingNum": 8,
+    "freeVehicle": 0,
+    "latitude": "29.629309",
+    "longtitude": "106.498057",
+    "vehicleNum": 0,
+    "stationName": "互联网产业园",
+    "id": 80,
+    "stationAddress": "两江新区互联网产业园C9栋前斜坡处"
+  },
+  {
+    "parkingNum": 7,
+    "freeVehicle": 0,
+    "latitude": "29.563883",
+    "longtitude": "106.484806",
+    "vehicleNum": 0,
+    "stationName": "华宇金沙港湾B站",
+    "id": 97,
+    "stationAddress": "沙坪坝区沙滨路26号（华宇•金沙港湾B区路旁）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.308286",
+    "longtitude": "120.105319",
+    "vehicleNum": 0,
+    "stationName": "同人精华站",
+    "id": 101,
+    "stationAddress": "同人精华大厦"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.276497",
+    "longtitude": "120.107816",
+    "vehicleNum": 0,
+    "stationName": "浙商财富中心站",
+    "id": 107,
+    "stationAddress": "古墩路与莲花街交叉口（4号楼东门）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "30.270985",
+    "longtitude": "120.096524",
+    "vehicleNum": 0,
+    "stationName": "西溪天堂商业街站",
+    "id": 186,
+    "stationAddress": "紫金港路21号（外婆家西溪天堂店门口）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.589144",
+    "longtitude": "106.568048",
+    "vehicleNum": 0,
+    "stationName": "欧亚达家居关闭",
+    "id": 192,
+    "stationAddress": "重庆市江北区五红路欧亚达家居（西南2门）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.470971",
+    "longtitude": "106.481811",
+    "vehicleNum": 0,
+    "stationName": "天安数码城",
+    "id": 202,
+    "stationAddress": "大渡口区松青路1106号天安数码城.云谷1幢a附近"
+  },
+  {
+    "parkingNum": 0,
+    "freeVehicle": 0,
+    "latitude": "29.703765",
+    "longtitude": "106.623433",
+    "vehicleNum": 0,
+    "stationName": "清明维修厂事故维修",
+    "id": 212,
+    "stationAddress": "放置在清明维修的故障车辆"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.534271",
+    "longtitude": "106.459115",
+    "vehicleNum": 0,
+    "stationName": "华彩俊豪",
+    "id": 96,
+    "stationAddress": "沙坪坝区凤天大道红房子正门"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.545982",
+    "longtitude": "106.459097",
+    "vehicleNum": 0,
+    "stationName": "天鑫花园",
+    "id": 94,
+    "stationAddress": "沙坪坝区都市花园中路94附9号"
+  },
+  {
+    "parkingNum": 100,
+    "freeVehicle": 0,
+    "latitude": "29.701632",
+    "longtitude": "106.551784",
+    "vehicleNum": 0,
+    "stationName": "盼达库新车入库",
+    "id": 190,
+    "stationAddress": "鸳鸯"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.56096",
+    "longtitude": "106.533669",
+    "vehicleNum": 0,
+    "stationName": "世纪金源关闭",
+    "id": 191,
+    "stationAddress": "重庆市江北区北滨路居然之家（重庆金源店兄弟装饰门前）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.579324",
+    "longtitude": "106.314429",
+    "vehicleNum": 0,
+    "stationName": "康居西城四组团",
+    "id": 195,
+    "stationAddress": "沙坪坝区康城南路康居西城四组团（四组团小区内）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.752531",
+    "longtitude": "106.502791",
+    "vehicleNum": 0,
+    "stationName": "两江名居",
+    "id": 196,
+    "stationAddress": "北碚区蔡顺路两江名居小学对面"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "40.01483",
+    "longtitude": "116.551319",
+    "vehicleNum": 0,
+    "stationName": "锐创租车01测试",
+    "id": 105,
+    "stationAddress": "北京市朝阳区望京东路8号"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "40.01483",
+    "longtitude": "116.501319",
+    "vehicleNum": 0,
+    "stationName": "锐创租车03测试",
+    "id": 188,
+    "stationAddress": "北京市朝阳区望京东路8号"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "40.01483",
+    "longtitude": "116.491319",
+    "vehicleNum": 0,
+    "stationName": "锐创租车02测试",
+    "id": 180,
+    "stationAddress": "北京市朝阳区望京东路8号"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "40.01483",
+    "longtitude": "116.491319",
+    "vehicleNum": 0,
+    "stationName": "锐创租车00测试",
+    "id": 104,
+    "stationAddress": "北京市朝阳区望京东路8号"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "30.281161",
+    "longtitude": "119.996551",
+    "vehicleNum": 0,
+    "stationName": "希垦孵化园站",
+    "id": 199,
+    "stationAddress": "文一西路与绿汀路交叉口（海创大厦A栋门口）如该站点车位已满，烦请将车辆停至利尔达科技园站点"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.466365",
+    "longtitude": "106.48781",
+    "vehicleNum": 0,
+    "stationName": "移动互联网产业园",
+    "id": 203,
+    "stationAddress": "大渡口区春晖路移动互联网产业园内"
+  },
+  {
+    "parkingNum": 12,
+    "freeVehicle": 0,
+    "latitude": "29.60527",
+    "longtitude": "106.604367",
+    "vehicleNum": 0,
+    "stationName": "洋人街",
+    "id": 204,
+    "stationAddress": "南岸区腾龙大道56号洋人街足球公园旁"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.505935",
+    "longtitude": "106.481851",
+    "vehicleNum": 0,
+    "stationName": "巴国城",
+    "id": 213,
+    "stationAddress": "九龙坡区红狮大道6号巴国城石生国际茶城门前"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.250393",
+    "longtitude": "120.188905",
+    "vehicleNum": 0,
+    "stationName": "城站火车站站",
+    "id": 218,
+    "stationAddress": "环城东路1号(地下北车库，征信大酒店对面进入地下车库)"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.614141",
+    "longtitude": "106.37224",
+    "vehicleNum": 0,
+    "stationName": "首创光和城",
+    "id": 219,
+    "stationAddress": "沙坪坝区西双大道首创光和城售楼部停车场内（微电园轻轨站旁）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.473502",
+    "longtitude": "106.541386",
+    "vehicleNum": 0,
+    "stationName": "李家沱马王坪站",
+    "id": 226,
+    "stationAddress": "巴南区李家沱工矿路(南华学校附近）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.498489",
+    "longtitude": "106.545963",
+    "vehicleNum": 0,
+    "stationName": "黄桷坪新市场站",
+    "id": 227,
+    "stationAddress": "九龙坡区黄桷坪正街铁路医院斜对面（新市场公交车站旁）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.64552",
+    "longtitude": "106.803314",
+    "vehicleNum": 0,
+    "stationName": "复盛祥韵家园",
+    "id": 406,
+    "stationAddress": "江北区盛泰路祥韵家园B区停车场内"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.54959",
+    "longtitude": "106.592369",
+    "vehicleNum": 0,
+    "stationName": "皇冠国际",
+    "id": 437,
+    "stationAddress": "南岸区南滨路皇冠国际（喜来登1号楼旁）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.632159",
+    "longtitude": "106.777177",
+    "vehicleNum": 0,
+    "stationName": "鱼嘴福居",
+    "id": 438,
+    "stationAddress": "江北区鱼嘴派出所旁"
+  },
+  {
+    "parkingNum": 9,
+    "freeVehicle": 0,
+    "latitude": "29.652425",
+    "longtitude": "106.80092",
+    "vehicleNum": 0,
+    "stationName": "复盛福居",
+    "id": 439,
+    "stationAddress": "江北区复龙路8号复盛福居公租房小区内"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.814339",
+    "longtitude": "106.559981",
+    "vehicleNum": 0,
+    "stationName": "思源福居",
+    "id": 443,
+    "stationAddress": "北碚区复兴街思源福居公租房三组团内"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.644268",
+    "longtitude": "106.490304",
+    "vehicleNum": 0,
+    "stationName": "康庄美地C区",
+    "id": 444,
+    "stationAddress": "渝北区黄竹路康庄美地C区（奇惠超市门前）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.639504",
+    "longtitude": "106.486558",
+    "vehicleNum": 0,
+    "stationName": "康庄美地B区",
+    "id": 445,
+    "stationAddress": "渝北区金竹路康庄美地B区商业街停车场内"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.504296",
+    "longtitude": "106.659617",
+    "vehicleNum": 0,
+    "stationName": "同景国际广场关闭",
+    "id": 508,
+    "stationAddress": "南岸区同景路同景国际广场停车场内"
+  },
+  {
+    "parkingNum": 0,
+    "freeVehicle": 0,
+    "latitude": "29.440987",
+    "longtitude": "106.448219",
+    "vehicleNum": 0,
+    "stationName": "锦绣花城",
+    "id": 521,
+    "stationAddress": "九龙坡区华福大道北段63号锦绣花城停车场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.660834",
+    "longtitude": "104.049123",
+    "vehicleNum": 0,
+    "stationName": "天晴国际客栈",
+    "id": 628,
+    "stationAddress": "青羊区百花东路38号(天晴酒店停车场)"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.662957",
+    "longtitude": "104.047708",
+    "vehicleNum": 0,
+    "stationName": "百花潭公园西门",
+    "id": 627,
+    "stationAddress": "青羊区一环路西一段175号（百花潭西门近河边一侧）"
+  },
+  {
+    "parkingNum": 8,
+    "freeVehicle": 0,
+    "latitude": "30.65495",
+    "longtitude": "104.072178",
+    "vehicleNum": 0,
+    "stationName": "锦江宾馆前门",
+    "id": 629,
+    "stationAddress": "锦江区人民南路二段80号(锦江宾馆内)"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.500112",
+    "longtitude": "106.452274",
+    "vehicleNum": 0,
+    "stationName": "华岩寺",
+    "id": 678,
+    "stationAddress": "九龙坡区华岩寺路面向华岩寺大门右侧停车场内"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.809124",
+    "longtitude": "106.408253",
+    "vehicleNum": 0,
+    "stationName": "北碚汽车客运中心",
+    "id": 680,
+    "stationAddress": "北碚区缙云大道北碚汽车客运中心旁（渝运驾校内）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.652557",
+    "longtitude": "104.09848",
+    "vehicleNum": 0,
+    "stationName": "牛王庙",
+    "id": 682,
+    "stationAddress": "锦江区水井坊街道牛王庙巷4号（便民停车场）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.632104",
+    "longtitude": "106.620774",
+    "vehicleNum": 0,
+    "stationName": "曙光工业园E区",
+    "id": 780,
+    "stationAddress": "江北区港岸国际曙光都市工业产业园E区内（员工食堂背后）"
+  },
+  {
+    "parkingNum": 8,
+    "freeVehicle": 0,
+    "latitude": "35.115911",
+    "longtitude": "112.581071",
+    "vehicleNum": 0,
+    "stationName": "火车站站点",
+    "id": 756,
+    "stationAddress": "河南省济源市济源站站点广场北侧"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "30.318272",
+    "longtitude": "120.282075",
+    "vehicleNum": 0,
+    "stationName": "九堡客运中心站",
+    "id": 759,
+    "stationAddress": "九堡镇通盛路与桑植路交叉口"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.248112",
+    "longtitude": "120.061284",
+    "vehicleNum": 0,
+    "stationName": "留下商贸中心站",
+    "id": 769,
+    "stationAddress": "留下大街87号"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.474115",
+    "longtitude": "106.478581",
+    "vehicleNum": 0,
+    "stationName": "重庆大福汽车4S店",
+    "id": 774,
+    "stationAddress": "重庆市大渡口区重庆轨道交通二号线天堂堡车站旁"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.658114",
+    "longtitude": "106.537366",
+    "vehicleNum": 0,
+    "stationName": "北大资源博雅",
+    "id": 781,
+    "stationAddress": "渝北区金州大道北大资源博雅内（金州天地商业区旁）"
+  },
+  {
+    "parkingNum": 6,
+    "freeVehicle": 0,
+    "latitude": "30.741525",
+    "longtitude": "104.172441",
+    "vehicleNum": 0,
+    "stationName": "保利狮子湖",
+    "id": 785,
+    "stationAddress": "新都区木兰镇保利狮子湖（蜀龙路与熊猫大道交汇处）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.471587",
+    "longtitude": "106.454362",
+    "vehicleNum": 0,
+    "stationName": "龙城御府",
+    "id": 793,
+    "stationAddress": "九龙坡区华龙大道龙城御府销售接待中心右侧"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.527565",
+    "longtitude": "106.468169",
+    "vehicleNum": 0,
+    "stationName": "华璞城",
+    "id": 197,
+    "stationAddress": "重庆市九龙坡区兰美路50号华璞城汽车时代广场西门前"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.291061",
+    "longtitude": "120.063507",
+    "vehicleNum": 0,
+    "stationName": "智慧产业创业园站",
+    "id": 200,
+    "stationAddress": "龙章路与文一西路交叉口（智慧产业创业园南门）"
+  },
+  {
+    "parkingNum": 14,
+    "freeVehicle": 0,
+    "latitude": "30.27943",
+    "longtitude": "120.130633",
+    "vehicleNum": 0,
+    "stationName": "杭钢冶金科技大厦站",
+    "id": 106,
+    "stationAddress": "万塘路与地矿桥交叉口（支付宝大楼星巴克西面）"
+  },
+  {
+    "parkingNum": 8,
+    "freeVehicle": 0,
+    "latitude": "29.819093",
+    "longtitude": "106.412677",
+    "vehicleNum": 0,
+    "stationName": "海旭花园酒店",
+    "id": 216,
+    "stationAddress": "北碚区双柏路海旭花园酒店大门左侧"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.246737",
+    "longtitude": "120.113458",
+    "vehicleNum": 0,
+    "stationName": "西湖灵隐寺站",
+    "id": 225,
+    "stationAddress": "灵竺路2号（楼外楼天外天分店附近）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.739503",
+    "longtitude": "106.491166",
+    "vehicleNum": 0,
+    "stationName": "蔡家旭派公寓B站",
+    "id": 435,
+    "stationAddress": "北碚区蔡家嘉瑞大道22号二栋门前"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.683419",
+    "longtitude": "106.758888",
+    "vehicleNum": 0,
+    "stationName": "天堡福居",
+    "id": 440,
+    "stationAddress": "渝北区两江大道天堡福居公租房小区内"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.07943",
+    "longtitude": "112.619249",
+    "vehicleNum": 0,
+    "stationName": "济水苑站",
+    "id": 502,
+    "stationAddress": "河南省济源市济源一中对面，济水苑北门东侧"
+  },
+  {
+    "parkingNum": 4,
+    "freeVehicle": 0,
+    "latitude": "35.095857",
+    "longtitude": "112.590706",
+    "vehicleNum": 0,
+    "stationName": "老公交站",
+    "id": 503,
+    "stationAddress": "河南省济源市济水大街与汤帝路交叉口向西100米路北"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.725797",
+    "longtitude": "106.620325",
+    "vehicleNum": 0,
+    "stationName": "同茂怡洲",
+    "id": 507,
+    "stationAddress": "渝北区桂馥大道同茂怡洲停车场内"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.747598",
+    "longtitude": "106.650503",
+    "vehicleNum": 0,
+    "stationName": "纵达城",
+    "id": 510,
+    "stationAddress": "渝北区空港大道翔宇路纵达国际汽车城南门处"
+  },
+  {
+    "parkingNum": 0,
+    "freeVehicle": 0,
+    "latitude": "29.558614",
+    "longtitude": "106.49211",
+    "vehicleNum": 0,
+    "stationName": "金沙东岸",
+    "id": 517,
+    "stationAddress": "沙坪坝区沙滨路8金沙东岸停车场内"
+  },
+  {
+    "parkingNum": 0,
+    "freeVehicle": 0,
+    "latitude": "29.54012",
+    "longtitude": "106.485598",
+    "vehicleNum": 0,
+    "stationName": "时代星都",
+    "id": 518,
+    "stationAddress": "九龙坡区白马凼支路10号时代星都停车场入口左侧20米"
+  },
+  {
+    "parkingNum": 0,
+    "freeVehicle": 0,
+    "latitude": "29.528591",
+    "longtitude": "106.45842",
+    "vehicleNum": 0,
+    "stationName": "华宇城",
+    "id": 519,
+    "stationAddress": "沙坪坝区凤西路169号华宇城停车场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.820448",
+    "longtitude": "106.39172",
+    "vehicleNum": 0,
+    "stationName": "北碚彩虹泉",
+    "id": 805,
+    "stationAddress": "北碚区缙云大道路口彩虹泉农家庄苑大门口处"
+  },
+  {
+    "parkingNum": 6,
+    "freeVehicle": 0,
+    "latitude": "30.635374",
+    "longtitude": "104.151278",
+    "vehicleNum": 0,
+    "stationName": "龙之梦大酒店",
+    "id": 679,
+    "stationAddress": "成华区火车东站东广场东侧（龙之梦大酒店入口右侧）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.631545",
+    "longtitude": "104.15992",
+    "vehicleNum": 0,
+    "stationName": "和锦路",
+    "id": 681,
+    "stationAddress": "成华区和锦路与万科路交叉口"
+  },
+  {
+    "parkingNum": 25,
+    "freeVehicle": 0,
+    "latitude": "29.520597",
+    "longtitude": "106.719686",
+    "vehicleNum": 0,
+    "stationName": "朝天门国际商贸城A站",
+    "id": 746,
+    "stationAddress": "南岸区迎龙镇朝天门国际商贸城A区A1一号门对面停车场内"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.497636",
+    "longtitude": "106.504021",
+    "vehicleNum": 0,
+    "stationName": "渝新花园",
+    "id": 750,
+    "stationAddress": "九龙坡区跃进路569号渝新花园广场停车场内"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.517765",
+    "longtitude": "106.662172",
+    "vehicleNum": 0,
+    "stationName": "长桥左岸",
+    "id": 752,
+    "stationAddress": "南岸区茶园长生桥地铁站长桥左岸门前（江南交通换乘枢纽站对面停车场内）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "35.052751",
+    "longtitude": "112.623772",
+    "vehicleNum": 0,
+    "stationName": "河南力帆站",
+    "id": 775,
+    "stationAddress": "河南省济源市河南力帆西门口斜对面（西北方向）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.738386",
+    "longtitude": "104.148844",
+    "vehicleNum": 0,
+    "stationName": "大熊猫基地",
+    "id": 801,
+    "stationAddress": "成华区熊猫大道1333号附1"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.588969",
+    "longtitude": "104.147145",
+    "vehicleNum": 0,
+    "stationName": "幸福梅林",
+    "id": 802,
+    "stationAddress": "锦江区幸福梅林滨湖东路28号"
+  },
+  {
+    "parkingNum": 100,
+    "freeVehicle": 0,
+    "latitude": "35.052807",
+    "longtitude": "112.626261",
+    "vehicleNum": 0,
+    "stationName": "济源备用库",
+    "id": 803,
+    "stationAddress": "河南力帆新能源车厂"
+  },
+  {
+    "parkingNum": 13,
+    "freeVehicle": 0,
+    "latitude": "30.311006",
+    "longtitude": "120.341838",
+    "vehicleNum": 0,
+    "stationName": "下沙创意大厦站",
+    "id": 804,
+    "stationAddress": "天城东路77号（东沙商业中心东1门对面）"
+  },
+  {
+    "parkingNum": 18,
+    "freeVehicle": 0,
+    "latitude": "30.178894",
+    "longtitude": "120.153324",
+    "vehicleNum": 0,
+    "stationName": "滨江江南商业大厦站",
+    "id": 806,
+    "stationAddress": "浦沿路773号江南商业大厦一楼盒座社门口"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.654803",
+    "longtitude": "104.06982",
+    "vehicleNum": 0,
+    "stationName": "锦江宾馆后门",
+    "id": 807,
+    "stationAddress": "锦江区人民南路二段80锦江宾馆锦苑楼旁"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.561787",
+    "longtitude": "106.46035",
+    "vehicleNum": 0,
+    "stationName": "重庆师范大学",
+    "id": 813,
+    "stationAddress": "沙坪坝区站西路重庆师范大学后门50米处（沙铁村对面停车场内）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.687806",
+    "longtitude": "104.010774",
+    "vehicleNum": 0,
+    "stationName": "金沙云庭",
+    "id": 814,
+    "stationAddress": "青羊区金沙遗址路金沙云庭（金沙遗址路和蜀金路交叉口）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.68587",
+    "longtitude": "104.003502",
+    "vehicleNum": 0,
+    "stationName": "金鹏街",
+    "id": 815,
+    "stationAddress": "青羊区金鹏街291号淇杰体育馆"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.670902",
+    "longtitude": "104.016815",
+    "vehicleNum": 0,
+    "stationName": "西城花园",
+    "id": 816,
+    "stationAddress": "青羊区光华村街85-附208号附近"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.649693",
+    "longtitude": "104.143453",
+    "vehicleNum": 0,
+    "stationName": "隆鑫九熙",
+    "id": 818,
+    "stationAddress": "成华区建材路29号九熙广场（超车道汽车美容馆旁）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.705242",
+    "longtitude": "104.190229",
+    "vehicleNum": 0,
+    "stationName": "保利林语溪",
+    "id": 828,
+    "stationAddress": "成华区华实路保利林语溪旁"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.423825",
+    "longtitude": "104.769244",
+    "vehicleNum": 0,
+    "stationName": "市交警支队站",
+    "id": 827,
+    "stationAddress": "四川省绵阳市经开区四川文化艺术学院南（加气站对面盼达专用停车场内）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.758587",
+    "longtitude": "104.086582",
+    "vehicleNum": 0,
+    "stationName": "保利爱尚里",
+    "id": 829,
+    "stationAddress": "新都区北星大道一段与南三段的交接处"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "30.726261",
+    "longtitude": "103.921312",
+    "vehicleNum": 0,
+    "stationName": "保利西子城",
+    "id": 830,
+    "stationAddress": "温江区芙蓉大道南50米"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.830322",
+    "longtitude": "106.443358",
+    "vehicleNum": 0,
+    "stationName": "北碚兴苹停车场",
+    "id": 833,
+    "stationAddress": "北碚区中山路老城商圈兴苹停车场内"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.540319",
+    "longtitude": "104.069779",
+    "vehicleNum": 0,
+    "stationName": "保利锦江里",
+    "id": 834,
+    "stationAddress": "武侯区德华路西50米(保利锦江里旁）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.462729",
+    "longtitude": "106.540348",
+    "vehicleNum": 0,
+    "stationName": "理工大学花溪站",
+    "id": 835,
+    "stationAddress": "巴南区红光大道理工大学花溪校区北门斜对面100米处（华府广场室外停车场内）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.538724",
+    "longtitude": "106.462506",
+    "vehicleNum": 0,
+    "stationName": "天骄年华",
+    "id": 95,
+    "stationAddress": "沙坪坝区凤天大道巴味堂正门"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.560139",
+    "longtitude": "106.576313",
+    "vehicleNum": 0,
+    "stationName": "和平路日月光广场",
+    "id": 98,
+    "stationAddress": "渝中区较场口日月光广场和平路停车场内"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "30.359347",
+    "longtitude": "120.076294",
+    "vehicleNum": 0,
+    "stationName": "越秀星汇悦城站",
+    "id": 108,
+    "stationAddress": "古墩路与吴王路交叉口（售楼处）"
+  },
+  {
+    "parkingNum": 30,
+    "freeVehicle": 0,
+    "latitude": "30.336234",
+    "longtitude": "120.127259",
+    "vehicleNum": 0,
+    "stationName": "拱墅万达广场站",
+    "id": 201,
+    "stationAddress": "杭行路666号(万达广场2号门附近)"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.541703",
+    "longtitude": "106.592733",
+    "vehicleNum": 0,
+    "stationName": "凯帝国际",
+    "id": 205,
+    "stationAddress": "南岸区烟雨路1-附14号凯帝国际网球俱乐部内"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.325152",
+    "longtitude": "120.151236",
+    "vehicleNum": 0,
+    "stationName": "运河上街购物中心站",
+    "id": 210,
+    "stationAddress": "金华路80号金华路80号运河上街地下二楼2号商场入口处"
+  },
+  {
+    "parkingNum": 0,
+    "freeVehicle": 0,
+    "latitude": "29.640375",
+    "longtitude": "106.64183",
+    "vehicleNum": 0,
+    "stationName": "公务车",
+    "id": 214,
+    "stationAddress": "公务车车辆存放站点"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.370975",
+    "longtitude": "120.034448",
+    "vehicleNum": 0,
+    "stationName": "万科良渚文化村食街站",
+    "id": 217,
+    "stationAddress": "良渚文化村食街公交站附近"
+  },
+  {
+    "parkingNum": 25,
+    "freeVehicle": 0,
+    "latitude": "29.613905",
+    "longtitude": "106.316522",
+    "vehicleNum": 0,
+    "stationName": "大学城轻轨站",
+    "id": 220,
+    "stationAddress": "沙坪坝区大学城北路139号（大学城轻轨站旁）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.610871",
+    "longtitude": "106.457022",
+    "vehicleNum": 0,
+    "stationName": "首创城",
+    "id": 221,
+    "stationAddress": "沙坪坝区双碑首创城售楼部停车位"
+  },
+  {
+    "parkingNum": 13,
+    "freeVehicle": 0,
+    "latitude": "30.322612",
+    "longtitude": "120.354261",
+    "vehicleNum": 0,
+    "stationName": "下沙福雷德广场站",
+    "id": 222,
+    "stationAddress": "文泽路99号"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.634097",
+    "longtitude": "106.670446",
+    "vehicleNum": 0,
+    "stationName": "寸滩港城东路",
+    "id": 223,
+    "stationAddress": "江北区港城东路5号（两江产业园公交车站附近）"
+  },
+  {
+    "parkingNum": 8,
+    "freeVehicle": 0,
+    "latitude": "30.191869",
+    "longtitude": "120.206333",
+    "vehicleNum": 0,
+    "stationName": "滨江华星创业园站",
+    "id": 228,
+    "stationAddress": "聚才路滨安路交叉口"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.827901",
+    "longtitude": "106.535188",
+    "vehicleNum": 0,
+    "stationName": "万寿福居",
+    "id": 442,
+    "stationAddress": "北碚区万兴路万寿福居A区商业街内"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.279949",
+    "longtitude": "120.186701",
+    "vehicleNum": 0,
+    "stationName": "海华广场站",
+    "id": 447,
+    "stationAddress": "建国北路658号海华广场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.582069",
+    "longtitude": "106.536746",
+    "vehicleNum": 0,
+    "stationName": "观音桥建新北路",
+    "id": 501,
+    "stationAddress": "江北区观音桥建新北路中国民生银行大厦马路正对面（绿色围墙露天停车场内）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.67477",
+    "longtitude": "106.569211",
+    "vehicleNum": 0,
+    "stationName": "聚信美家居",
+    "id": 511,
+    "stationAddress": "渝北区金开大道聚信美家居南门停车场内"
+  },
+  {
+    "parkingNum": 0,
+    "freeVehicle": 0,
+    "latitude": "29.615369",
+    "longtitude": "106.451915",
+    "vehicleNum": 0,
+    "stationName": "双碑温莎小镇",
+    "id": 515,
+    "stationAddress": "沙坪坝区双碑街华宇温莎小镇停车场"
+  },
+  {
+    "parkingNum": 30,
+    "freeVehicle": 0,
+    "latitude": "30.592121",
+    "longtitude": "104.062593",
+    "vehicleNum": 0,
+    "stationName": "成都测试点",
+    "id": 522,
+    "stationAddress": "武侯区府城大道西段339号天府新谷"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.861966",
+    "longtitude": "106.423434",
+    "vehicleNum": 0,
+    "stationName": "北温泉景区",
+    "id": 684,
+    "stationAddress": "北碚区缙云路27号北温泉景区入口处"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.591539",
+    "longtitude": "106.553437",
+    "vehicleNum": 0,
+    "stationName": "长都假日酒店",
+    "id": 685,
+    "stationAddress": "渝北区五红路78号长都假日酒店门前"
+  },
+  {
+    "parkingNum": 25,
+    "freeVehicle": 0,
+    "latitude": "29.519054",
+    "longtitude": "106.723262",
+    "vehicleNum": 0,
+    "stationName": "朝天门国际商贸城C站",
+    "id": 748,
+    "stationAddress": "南岸区迎龙镇朝天门国际商贸城B区B1一号门旁停车场内"
+  },
+  {
+    "parkingNum": 25,
+    "freeVehicle": 0,
+    "latitude": "29.522102",
+    "longtitude": "106.726046",
+    "vehicleNum": 0,
+    "stationName": "朝天门国际商贸城D站",
+    "id": 749,
+    "stationAddress": "南岸区迎龙镇朝天门国际商贸城物流配送中心旁停车场内"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.503762",
+    "longtitude": "106.642531",
+    "vehicleNum": 0,
+    "stationName": "鲁能领秀城",
+    "id": 753,
+    "stationAddress": "南岸区茶园长生桥镇江南小区鲁能领秀城售楼部停车场旁"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.669341",
+    "longtitude": "106.599466",
+    "vehicleNum": 0,
+    "stationName": "西南政法大学",
+    "id": 754,
+    "stationAddress": "渝北区西南政法大学毓才楼门口"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.229348",
+    "longtitude": "120.235847",
+    "vehicleNum": 0,
+    "stationName": "绿地旭辉城站",
+    "id": 757,
+    "stationAddress": "扬帆路和丹枫路交叉口"
+  },
+  {
+    "parkingNum": 8,
+    "freeVehicle": 0,
+    "latitude": "29.620898",
+    "longtitude": "106.363809",
+    "vehicleNum": 0,
+    "stationName": "同景优活城",
+    "id": 760,
+    "stationAddress": "沙坪坝区西永同景优活城5号楼下（优活城销售中心斜对面）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.659927",
+    "longtitude": "104.126481",
+    "vehicleNum": 0,
+    "stationName": "万年场积步街",
+    "id": 762,
+    "stationAddress": "成华区万年路社区积步街3号院（万年路往积步巷方向约100米）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.693188",
+    "longtitude": "104.104463",
+    "vehicleNum": 0,
+    "stationName": "府青二环立交",
+    "id": 782,
+    "stationAddress": "成华区府青路二段19号（中房蓝水湾）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.636197",
+    "longtitude": "106.758637",
+    "vehicleNum": 0,
+    "stationName": "两江瑞尔大酒店",
+    "id": 783,
+    "stationAddress": "江北区鱼嘴两江瑞尔大酒店门前"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.599296",
+    "longtitude": "106.68202",
+    "vehicleNum": 0,
+    "stationName": "铁山坪花田觅香",
+    "id": 789,
+    "stationAddress": "江北区铁山坪公园森林公园花田觅香停车场内"
+  },
+  {
+    "parkingNum": 0,
+    "freeVehicle": 0,
+    "latitude": "39.923176",
+    "longtitude": "116.402315",
+    "vehicleNum": 0,
+    "stationName": "test",
+    "id": 792,
+    "stationAddress": "test"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.489758",
+    "longtitude": "106.44741",
+    "vehicleNum": 0,
+    "stationName": "龙门阵",
+    "id": 794,
+    "stationAddress": "九龙坡区龙门阵大道龙门阵大门前停车场内（华参啤酒广场旁）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.659032",
+    "longtitude": "106.5891",
+    "vehicleNum": 0,
+    "stationName": "汇祥幸福里",
+    "id": 808,
+    "stationAddress": "渝北区果塘路汇祥幸福里商业街后门停车场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.711553",
+    "longtitude": "106.617939",
+    "vehicleNum": 0,
+    "stationName": "华辰国际大酒店",
+    "id": 810,
+    "stationAddress": "渝北区双龙湖街道腾芳大道华辰国际大酒店门前"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.240538",
+    "longtitude": "120.195841",
+    "vehicleNum": 0,
+    "stationName": "汽车南站云顶之星站",
+    "id": 812,
+    "stationAddress": "秋涛路256号云顶之星酒店正门右侧"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.819832",
+    "longtitude": "106.546027",
+    "vehicleNum": 0,
+    "stationName": "优玛环试",
+    "id": 832,
+    "stationAddress": "北碚区云汉大道5号附37号优码环试医疗设备公司大门内20米处"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.557496",
+    "longtitude": "106.557937",
+    "vehicleNum": 0,
+    "stationName": "重庆火车站金燕大酒店",
+    "id": 92,
+    "stationAddress": "渝中区南区路188号金燕大酒店正门"
+  },
+  {
+    "parkingNum": 12,
+    "freeVehicle": 0,
+    "latitude": "29.51738",
+    "longtitude": "106.471008",
+    "vehicleNum": 0,
+    "stationName": "红星美凯龙二郞",
+    "id": 93,
+    "stationAddress": "科城路11号红星美凯龙车库入口"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.541656",
+    "longtitude": "106.499161",
+    "vehicleNum": 0,
+    "stationName": "石桥广场",
+    "id": 103,
+    "stationAddress": "九龙坡区渝州路59号石桥广场停车场"
+  },
+  {
+    "parkingNum": 8,
+    "freeVehicle": 0,
+    "latitude": "29.56385",
+    "longtitude": "106.486509",
+    "vehicleNum": 0,
+    "stationName": "华宇金沙港湾A站",
+    "id": 189,
+    "stationAddress": "沙坪坝区沙滨路7号（华宇•金沙港湾B区路旁）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.40693",
+    "longtitude": "106.550818",
+    "vehicleNum": 0,
+    "stationName": "巴南万达广场",
+    "id": 184,
+    "stationAddress": "重庆市巴南区万达广场停车场出入口（旭辉乐活城对面）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.628332",
+    "longtitude": "106.651622",
+    "vehicleNum": 0,
+    "stationName": "聚峰国际",
+    "id": 224,
+    "stationAddress": "江北区港城西路53号（聚峰国际物业管理公司停车场）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.584151",
+    "longtitude": "106.321359",
+    "vehicleNum": 0,
+    "stationName": "康居西城七组团",
+    "id": 194,
+    "stationAddress": "沙坪坝区康城路康居西城七组团（七组团小区内）"
+  },
+  {
+    "parkingNum": 8,
+    "freeVehicle": 0,
+    "latitude": "30.194035",
+    "longtitude": "120.213982",
+    "vehicleNum": 0,
+    "stationName": "滨江IXWORK站",
+    "id": 229,
+    "stationAddress": "滨安路650号"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.633124",
+    "longtitude": "106.761947",
+    "vehicleNum": 0,
+    "stationName": "鱼复管委会",
+    "id": 430,
+    "stationAddress": "江北区和韵路鱼复工业园管委会门前"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.605894",
+    "longtitude": "106.309219",
+    "vehicleNum": 0,
+    "stationName": "大学城熙街",
+    "id": 431,
+    "stationAddress": "沙坪坝区大学城南路渝冠驾校内（重大与川美之间）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.71887",
+    "longtitude": "106.794839",
+    "vehicleNum": 0,
+    "stationName": "龙兴福居",
+    "id": 441,
+    "stationAddress": "渝北区普福大道龙兴福居公租房商业街停车场出口"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "30.193364",
+    "longtitude": "120.145181",
+    "vehicleNum": 0,
+    "stationName": "滨江海创基地站",
+    "id": 446,
+    "stationAddress": "高新技术开发区六合路368号（海创园北门附近）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.595052",
+    "longtitude": "106.4865",
+    "vehicleNum": 0,
+    "stationName": "南桥寺永辉广场",
+    "id": 449,
+    "stationAddress": "江北区盘溪五支路永辉广场停车场出口处"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.625205",
+    "longtitude": "106.535835",
+    "vehicleNum": 0,
+    "stationName": "邢家桥社区",
+    "id": 498,
+    "stationAddress": "渝北区万年路邢家桥社区停车场内"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "35.071207",
+    "longtitude": "112.612216",
+    "vehicleNum": 0,
+    "stationName": "第二行政区站",
+    "id": 499,
+    "stationAddress": "河南省济源市黄河大道与沁园路交叉口东南角"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.101541",
+    "longtitude": "112.58616",
+    "vehicleNum": 0,
+    "stationName": "淸趣园西门站",
+    "id": 505,
+    "stationAddress": "河南省济源市淸趣园西门对面（引沁局大门口北侧）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "35.054927",
+    "longtitude": "112.618926",
+    "vehicleNum": 0,
+    "stationName": "西安交大站",
+    "id": 506,
+    "stationAddress": "河南省济源市高新区电子商务产业园对面"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.726088",
+    "longtitude": "106.546049",
+    "vehicleNum": 0,
+    "stationName": "悦来温德姆酒店",
+    "id": 509,
+    "stationAddress": "渝北区悦来滨江路86号温德姆酒店停车场内"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.439636",
+    "longtitude": "106.445914",
+    "vehicleNum": 0,
+    "stationName": "美每家",
+    "id": 512,
+    "stationAddress": "重庆市九龙坡区华福大道北段68号"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.750819",
+    "longtitude": "106.564212",
+    "vehicleNum": 0,
+    "stationName": "仙桃数据谷",
+    "id": 513,
+    "stationAddress": "重庆市渝北区双龙湖街道数据谷东路19号仙桃数据谷公交站旁"
+  },
+  {
+    "parkingNum": 0,
+    "freeVehicle": 0,
+    "latitude": "29.567042",
+    "longtitude": "106.452037",
+    "vehicleNum": 0,
+    "stationName": "杨公桥华宇星云汇",
+    "id": 516,
+    "stationAddress": "沙坪坝区杨梨路73号华宇星云汇停车场"
+  },
+  {
+    "parkingNum": 0,
+    "freeVehicle": 0,
+    "latitude": "29.508068",
+    "longtitude": "106.506317",
+    "vehicleNum": 0,
+    "stationName": "阳光尚座",
+    "id": 520,
+    "stationAddress": "九龙坡区龙泉路20号阳光尚座停车场内"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "30.573155",
+    "longtitude": "103.980555",
+    "vehicleNum": 0,
+    "stationName": "百港国际酒店",
+    "id": 673,
+    "stationAddress": "双流区西航港大道一段209号(百港酒店地面停车场)"
+  },
+  {
+    "parkingNum": 7,
+    "freeVehicle": 0,
+    "latitude": "29.670518",
+    "longtitude": "106.622049",
+    "vehicleNum": 0,
+    "stationName": "君顿秀邸酒店",
+    "id": 674,
+    "stationAddress": "渝北区服装城大道48号君顿秀邸酒店停车场（酒店正大门左侧）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.588673",
+    "longtitude": "106.523222",
+    "vehicleNum": 0,
+    "stationName": "花卉园东路",
+    "id": 675,
+    "stationAddress": "重庆市渝北区花卉园东路2附1号附近（花卉园东路停车场内）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.80742",
+    "longtitude": "106.402495",
+    "vehicleNum": 0,
+    "stationName": "海宇温泉大酒店",
+    "id": 676,
+    "stationAddress": "北碚区双元大道海宇温泉大酒店停车场内"
+  },
+  {
+    "parkingNum": 25,
+    "freeVehicle": 0,
+    "latitude": "29.521953",
+    "longtitude": "106.720809",
+    "vehicleNum": 0,
+    "stationName": "朝天门国际商贸城B站",
+    "id": 747,
+    "stationAddress": "南岸区迎龙镇朝天门国际商贸城A区A3一号门对面停车场内"
+  },
+  {
+    "parkingNum": 11,
+    "freeVehicle": 0,
+    "latitude": "34.729536",
+    "longtitude": "113.774076",
+    "vehicleNum": 0,
+    "stationName": "河南汉威测试",
+    "id": 751,
+    "stationAddress": "经北一路"
+  },
+  {
+    "parkingNum": 6,
+    "freeVehicle": 0,
+    "latitude": "35.101497",
+    "longtitude": "112.580959",
+    "vehicleNum": 0,
+    "stationName": "商业城站点",
+    "id": 755,
+    "stationAddress": "河南省济源市天坛路与济水大街交叉口向北200米路东"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "30.390547",
+    "longtitude": "120.143654",
+    "vehicleNum": 0,
+    "stationName": "恒基旭辉府站",
+    "id": 758,
+    "stationAddress": "丽水北路恒基旭辉府东门"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.642793",
+    "longtitude": "104.112373",
+    "vehicleNum": 0,
+    "stationName": "牛市口",
+    "id": 761,
+    "stationAddress": "锦江区二环路东四段128号附近"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.827561",
+    "longtitude": "106.440669",
+    "vehicleNum": 0,
+    "stationName": "北碚月亮田站关闭",
+    "id": 765,
+    "stationAddress": "北碚新星路北(北汽厂大门内右侧）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.730838",
+    "longtitude": "106.5584",
+    "vehicleNum": 0,
+    "stationName": "北大资源悦来",
+    "id": 776,
+    "stationAddress": "渝北区悦城路北大资源悦来室外停车场内"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.630829",
+    "longtitude": "106.626074",
+    "vehicleNum": 0,
+    "stationName": "北大资源江山名门已关闭",
+    "id": 777,
+    "stationAddress": "江北区海尔路北江山名门销售中心停车场内"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.631573",
+    "longtitude": "106.611351",
+    "vehicleNum": 0,
+    "stationName": "曙光工业园C区",
+    "id": 779,
+    "stationAddress": "江北区港岸国际曙光都市工业产业园C区入口左方"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.674283",
+    "longtitude": "106.629924",
+    "vehicleNum": 0,
+    "stationName": "回兴九仟汇",
+    "id": 784,
+    "stationAddress": "渝北区霓裳大道北台商工业园九仟汇内（九仟汇招商中心旁）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.598456",
+    "longtitude": "106.675683",
+    "vehicleNum": 0,
+    "stationName": "铁山坪僧官寺",
+    "id": 786,
+    "stationAddress": "江北区铁山坪公园森林公园僧官寺停车场内"
+  },
+  {
+    "parkingNum": 6,
+    "freeVehicle": 0,
+    "latitude": "30.737987",
+    "longtitude": "104.189869",
+    "vehicleNum": 0,
+    "stationName": "保利湖心岛",
+    "id": 787,
+    "stationAddress": "新都区木兰镇新木路保利湖心岛"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.59269",
+    "longtitude": "106.675669",
+    "vehicleNum": 0,
+    "stationName": "铁山坪游客中心",
+    "id": 788,
+    "stationAddress": "江北区铁山坪公园森林公园游客中心门前停车场内"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.501633",
+    "longtitude": "106.504286",
+    "vehicleNum": 0,
+    "stationName": "新九龙步行街2站",
+    "id": 790,
+    "stationAddress": "九龙坡区兴堰路北大资源燕南步行街室外停车场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.496815",
+    "longtitude": "106.506496",
+    "vehicleNum": 0,
+    "stationName": "新九龙步行街1站",
+    "id": 791,
+    "stationAddress": "九龙坡区兴堰路北大资源燕南销售中心入口处"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.410659",
+    "longtitude": "104.836317",
+    "vehicleNum": 0,
+    "stationName": "游仙区政务服务中心站",
+    "id": 844,
+    "stationAddress": "四川省绵阳市游仙区东山大道南段6号（政府服务中心正门前广场停车位）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.441135",
+    "longtitude": "106.543723",
+    "vehicleNum": 0,
+    "stationName": "远达浣花香岸",
+    "id": 848,
+    "stationAddress": "巴南区苦竹坝路远达•浣花香岸售楼部停车场内"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.472168",
+    "longtitude": "104.669412",
+    "vehicleNum": 0,
+    "stationName": "高新区管委会站",
+    "id": 850,
+    "stationAddress": "四川省绵阳市高新区温州商贸广场（高新区管委会内停车位）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.730378",
+    "longtitude": "113.774127",
+    "vehicleNum": 0,
+    "stationName": "汉威光电站",
+    "id": 1199,
+    "stationAddress": "河南省郑州市管城区经济开发区经开第八大街--经北一路交叉口"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.455913",
+    "longtitude": "104.700373",
+    "vehicleNum": 0,
+    "stationName": "英郦庄园站",
+    "id": 876,
+    "stationAddress": "四川省绵阳市高新区飞云大道东段北与石桥铺东路交汇处（广场停车位内）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.480083",
+    "longtitude": "104.773853",
+    "vehicleNum": 0,
+    "stationName": "游仙区政府站",
+    "id": 877,
+    "stationAddress": "四川省绵阳市游仙区一环路东段139号（游仙区政府院内停车位）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.491368",
+    "longtitude": "106.381106",
+    "vehicleNum": 0,
+    "stationName": "太兹村停车场",
+    "id": 879,
+    "stationAddress": "九龙坡区白市驿国家电网供电营业厅旁"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.47316",
+    "longtitude": "104.773597",
+    "vehicleNum": 0,
+    "stationName": "游仙城建局站院内",
+    "id": 887,
+    "stationAddress": "四川省绵阳市游仙区沈家坝东津路南（游仙区城建局院内停车位）"
+  },
+  {
+    "parkingNum": 6,
+    "freeVehicle": 0,
+    "latitude": "30.759146",
+    "longtitude": "104.156928",
+    "vehicleNum": 0,
+    "stationName": "保利拉菲公馆",
+    "id": 925,
+    "stationAddress": "新都区保利拉菲国际社区"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.765383",
+    "longtitude": "104.155743",
+    "vehicleNum": 0,
+    "stationName": "保利拉菲庄园",
+    "id": 927,
+    "stationAddress": "新都区保利拉菲庄园西区"
+  },
+  {
+    "parkingNum": 6,
+    "freeVehicle": 0,
+    "latitude": "30.273297",
+    "longtitude": "120.130507",
+    "vehicleNum": 0,
+    "stationName": "浙江大学玉泉校区站",
+    "id": 928,
+    "stationAddress": "浙大玉泉校区内12号宿舍楼门口（西面）空地，由新桥门路进入到尽头右转，6号宿舍楼门口空地即可看到停车场"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.475387",
+    "longtitude": "104.7728",
+    "vehicleNum": 0,
+    "stationName": "富乐便民服务中心站",
+    "id": 938,
+    "stationAddress": "四川省绵阳市游仙区芙蓉路（相约零距离茶楼前路边停车位）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.485868",
+    "longtitude": "104.772284",
+    "vehicleNum": 0,
+    "stationName": "关岭8号站",
+    "id": 940,
+    "stationAddress": "四川省绵阳市游仙区五里堆路关岭8号（广场停车位）"
+  },
+  {
+    "parkingNum": 0,
+    "freeVehicle": 0,
+    "latitude": "29.619031",
+    "longtitude": "106.506689",
+    "vehicleNum": 0,
+    "stationName": "重庆电力设计院",
+    "id": 944,
+    "stationAddress": "渝北区杨柳路6号凤凰座D2号门"
+  },
+  {
+    "parkingNum": 0,
+    "freeVehicle": 0,
+    "latitude": "29.592901",
+    "longtitude": "106.56467",
+    "vehicleNum": 0,
+    "stationName": "国电客服中心测试",
+    "id": 945,
+    "stationAddress": "江北区五福路1号重庆电力公司客户服务中心正门"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.082203",
+    "longtitude": "112.611497",
+    "vehicleNum": 0,
+    "stationName": "御驾东站",
+    "id": 954,
+    "stationAddress": "河南省济源市济源大道与沁园路交叉口向北100米路西"
+  },
+  {
+    "parkingNum": 8,
+    "freeVehicle": 0,
+    "latitude": "30.699004",
+    "longtitude": "104.185033",
+    "vehicleNum": 0,
+    "stationName": "龙潭工业园钢铁领域",
+    "id": 965,
+    "stationAddress": "成华区成宏路18号钢铁领域停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.981916",
+    "longtitude": "106.287436",
+    "vehicleNum": 0,
+    "stationName": "华地领域关闭",
+    "id": 968,
+    "stationAddress": "重庆市合川区华地街华地领域露天停车场（恒丰银行旁入口）"
+  },
+  {
+    "parkingNum": 8,
+    "freeVehicle": 0,
+    "latitude": "30.250076",
+    "longtitude": "120.035277",
+    "vehicleNum": 0,
+    "stationName": "华立科技园站",
+    "id": 978,
+    "stationAddress": "五常大道181号华立科技园左侧停车场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.624263",
+    "longtitude": "103.994758",
+    "vehicleNum": 0,
+    "stationName": "万兴路",
+    "id": 979,
+    "stationAddress": "武侯区簇锦街道福晋路一段中铁骑士公关旁（中信银行旁）"
+  },
+  {
+    "parkingNum": 25,
+    "freeVehicle": 0,
+    "latitude": "30.579689",
+    "longtitude": "104.207042",
+    "vehicleNum": 0,
+    "stationName": "四川师范成龙校区",
+    "id": 985,
+    "stationAddress": "龙泉驿区青台山路师大·现代花园4栋楼下"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.698002",
+    "longtitude": "106.607102",
+    "vehicleNum": 0,
+    "stationName": "渝北职教中心",
+    "id": 986,
+    "stationAddress": "重庆市渝北区宝桐路渝北职教中心正门对面"
+  },
+  {
+    "parkingNum": 25,
+    "freeVehicle": 0,
+    "latitude": "30.823689",
+    "longtitude": "103.99037",
+    "vehicleNum": 0,
+    "stationName": "四川传媒学院",
+    "id": 1032,
+    "stationAddress": "郫县学院街与黄家桥街交叉口东南150米(团结镇停车场内）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.089167",
+    "longtitude": "112.612994",
+    "vehicleNum": 0,
+    "stationName": "河合西站",
+    "id": 1036,
+    "stationAddress": "河南省济源市沁园路与河苑街交叉口东北角"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.092376",
+    "longtitude": "112.590738",
+    "vehicleNum": 0,
+    "stationName": "西街新村站",
+    "id": 1037,
+    "stationAddress": "河南省济源市汤帝路与周园路交叉口西北角"
+  },
+  {
+    "parkingNum": 17,
+    "freeVehicle": 0,
+    "latitude": "29.517337",
+    "longtitude": "106.518543",
+    "vehicleNum": 0,
+    "stationName": "杨家坪盛世华城",
+    "id": 1039,
+    "stationAddress": "九龙坡区兴胜路海兰云天盛世华城4号车库入口旁"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.692962",
+    "longtitude": "106.615987",
+    "vehicleNum": 0,
+    "stationName": "奔力乡间城关闭",
+    "id": 1045,
+    "stationAddress": "渝北区回兴宝桐一路奔力乡间城对面新源兴停车场"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "31.491942",
+    "longtitude": "104.75862",
+    "vehicleNum": 0,
+    "stationName": "东原香屿站",
+    "id": 1048,
+    "stationAddress": "四川省绵阳市游仙区游仙镇一环路北段（东原香屿附近路边停车位）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.687515",
+    "longtitude": "106.795531",
+    "vehicleNum": 0,
+    "stationName": "两江企业总部大厦",
+    "id": 1055,
+    "stationAddress": "渝北区龙兴镇卧龙路两江企业总部大厦南楼室外停车场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.571504",
+    "longtitude": "106.491428",
+    "vehicleNum": 0,
+    "stationName": "齐祥灯饰",
+    "id": 1059,
+    "stationAddress": "重庆市江北区石门齐祥灯饰"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "30.607632",
+    "longtitude": "103.994098",
+    "vehicleNum": 0,
+    "stationName": "亿臣国际酒店",
+    "id": 1062,
+    "stationAddress": "武侯区武侯大道铁佛段289号亿臣国际酒店停车场内"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.742056",
+    "longtitude": "106.494707",
+    "vehicleNum": 0,
+    "stationName": "蔡家中央大街",
+    "id": 1063,
+    "stationAddress": "北碚区蔡家岗镇嘉瑞大道蔡家公交站"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.42215",
+    "longtitude": "104.787948",
+    "vehicleNum": 0,
+    "stationName": "绵阳日报站",
+    "id": 1066,
+    "stationAddress": "四川省绵阳市经开区板桥南街绵阳日报社门口停车位"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.644038",
+    "longtitude": "103.992719",
+    "vehicleNum": 0,
+    "stationName": "武青东四路",
+    "id": 1073,
+    "stationAddress": "武侯区机投镇武青东四路中华锦绣"
+  },
+  {
+    "parkingNum": 2,
+    "freeVehicle": 0,
+    "latitude": "31.500095",
+    "longtitude": "104.709647",
+    "vehicleNum": 0,
+    "stationName": "创新中心一期站",
+    "id": 1092,
+    "stationAddress": "四川省绵阳市科创园区创业北路绵阳归家科技城建设成就展馆（创新中心一期）广场停车位"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.545751",
+    "longtitude": "104.708753",
+    "vehicleNum": 0,
+    "stationName": "西科大新区北门站",
+    "id": 840,
+    "stationAddress": "四川省绵阳市涪城区青龙大道中段59号（西科大新区北门出口路边停车位）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.420544",
+    "longtitude": "104.791289",
+    "vehicleNum": 0,
+    "stationName": "经开管委会站",
+    "id": 843,
+    "stationAddress": "四川省绵阳市经开区三江大道（管委会院内停车场）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.541466",
+    "longtitude": "104.86217",
+    "vehicleNum": 0,
+    "stationName": "仙海管委会站",
+    "id": 845,
+    "stationAddress": "四川省绵阳市游仙区沉抗镇仙海水利风景区内（仙海管委会正门广场停车位）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.429987",
+    "longtitude": "104.822744",
+    "vehicleNum": 0,
+    "stationName": "小枧站",
+    "id": 873,
+    "stationAddress": "四川省绵阳市游仙区小枧镇惠民街（快乐购超市旁路边停车位）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.477393",
+    "longtitude": "106.375927",
+    "vehicleNum": 0,
+    "stationName": "九州国际汽摩城A站",
+    "id": 881,
+    "stationAddress": "九龙坡区白市驿九州国际汽摩城（荷花池公交站旁）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.605741",
+    "longtitude": "106.689045",
+    "vehicleNum": 0,
+    "stationName": "铁山坪云岭广场",
+    "id": 905,
+    "stationAddress": "江北区铁山坪森林公园"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.456166",
+    "longtitude": "104.721024",
+    "vehicleNum": 0,
+    "stationName": "丽景花城站",
+    "id": 907,
+    "stationAddress": "四川省绵阳市涪城区滨河北路中段三之首附近路边停车位"
+  },
+  {
+    "parkingNum": 8,
+    "freeVehicle": 0,
+    "latitude": "31.474782",
+    "longtitude": "104.749724",
+    "vehicleNum": 0,
+    "stationName": "长虹国际城1站",
+    "id": 908,
+    "stationAddress": "四川省绵阳市涪城区跃进路4号长虹国际城广场内露天停车位"
+  },
+  {
+    "parkingNum": 100,
+    "freeVehicle": 0,
+    "latitude": "30.655207",
+    "longtitude": "104.15886",
+    "vehicleNum": 0,
+    "stationName": "五行维修部",
+    "id": 921,
+    "stationAddress": "成华区槐树店路43号"
+  },
+  {
+    "parkingNum": 0,
+    "freeVehicle": 0,
+    "latitude": "29.621983",
+    "longtitude": "106.489563",
+    "vehicleNum": 0,
+    "stationName": "电力公司研究院",
+    "id": 943,
+    "stationAddress": "大竹林街道黄山大道中段80号正门"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.494516",
+    "longtitude": "104.72912",
+    "vehicleNum": 0,
+    "stationName": "科园社区站",
+    "id": 957,
+    "stationAddress": "四川省绵阳市涪城区中华坊东（九洲大道北350米）路边停车位"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.305983",
+    "longtitude": "120.208198",
+    "vehicleNum": 0,
+    "stationName": "锦润公寓站",
+    "id": 963,
+    "stationAddress": "全福桥路441-445号商铺门口"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.713238",
+    "longtitude": "104.021488",
+    "vehicleNum": 0,
+    "stationName": "茶店子客运站",
+    "id": 964,
+    "stationAddress": "金牛区金卉南路益州蓉苑旁（茶店子客运站北）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.653552",
+    "longtitude": "104.179036",
+    "vehicleNum": 0,
+    "stationName": "龙锦湾",
+    "id": 966,
+    "stationAddress": "龙泉驿区蜀王大道北段龙锦湾假日酒店内"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.816595",
+    "longtitude": "106.423305",
+    "vehicleNum": 0,
+    "stationName": "西南大学6号门",
+    "id": 975,
+    "stationAddress": "北碚区斑竹村西南大学6号门100处（柑子湾停车场内）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.561644",
+    "longtitude": "106.241937",
+    "vehicleNum": 0,
+    "stationName": "大宏鼎建材市场",
+    "id": 977,
+    "stationAddress": "璧山区璧青北路870号大宏鼎建材市场内"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.636569",
+    "longtitude": "104.014099",
+    "vehicleNum": 0,
+    "stationName": "大悦城",
+    "id": 1070,
+    "stationAddress": "武侯区太平园中路中粮祥云二期西门"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.713303",
+    "longtitude": "104.10207",
+    "vehicleNum": 0,
+    "stationName": "中营购物广场",
+    "id": 1074,
+    "stationAddress": "成华区洪山北路中营购物广场停车场内"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.725144",
+    "longtitude": "104.07561",
+    "vehicleNum": 0,
+    "stationName": "王贾桥",
+    "id": 1075,
+    "stationAddress": "金牛区沙河源王贾路三九绿城旁"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.576102",
+    "longtitude": "106.540228",
+    "vehicleNum": 0,
+    "stationName": "观音桥COSMO",
+    "id": 1239,
+    "stationAddress": "江北区观音桥街道嘉陵一村41号COSMO室外停车场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.38929",
+    "longtitude": "106.530432",
+    "vehicleNum": 0,
+    "stationName": "商社汇巴南购物中心",
+    "id": 1110,
+    "stationAddress": "重庆市巴南区鱼洞市街80号"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.508264",
+    "longtitude": "104.784468",
+    "vehicleNum": 0,
+    "stationName": "芙蓉世纪阳光站",
+    "id": 1111,
+    "stationAddress": "四川省绵阳市游仙区仙桃街（芙蓉世纪阳光门口停车位）"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "31.49689",
+    "longtitude": "104.744551",
+    "vehicleNum": 0,
+    "stationName": "涪城运管所站院内",
+    "id": 1118,
+    "stationAddress": "四川省绵阳市涪城区长虹大道北段71-5（涪城区运管所院内停车位）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.477955",
+    "longtitude": "104.787138",
+    "vehicleNum": 0,
+    "stationName": "富乐山酒店站酒店内",
+    "id": 1121,
+    "stationAddress": "四川省绵阳市游仙区芙蓉路一段一号（富乐山酒店内专用停车位）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.63726",
+    "longtitude": "106.710313",
+    "vehicleNum": 0,
+    "stationName": "东方山水假日酒店",
+    "id": 1130,
+    "stationAddress": "渝北区玉峰山铁山坪森林公园内东方山水假日酒店"
+  },
+  {
+    "parkingNum": 6,
+    "freeVehicle": 0,
+    "latitude": "35.083125",
+    "longtitude": "112.622251",
+    "vehicleNum": 0,
+    "stationName": "建业壹号城邦站",
+    "id": 1160,
+    "stationAddress": "河南省济源市济源一中东门口路对面（壹号城邦西门南侧）"
+  },
+  {
+    "parkingNum": 4,
+    "freeVehicle": 0,
+    "latitude": "35.114048",
+    "longtitude": "112.56215",
+    "vehicleNum": 0,
+    "stationName": "济源太行路小学站",
+    "id": 1162,
+    "stationAddress": "河南省济源市太行路学校大门口西侧（龙潭生态园对面）"
+  },
+  {
+    "parkingNum": 8,
+    "freeVehicle": 0,
+    "latitude": "29.693193",
+    "longtitude": "106.820446",
+    "vehicleNum": 0,
+    "stationName": "绿城两江御园",
+    "id": 1170,
+    "stationAddress": "渝北区龙兴镇绿城两江御园售房部东侧"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.631633",
+    "longtitude": "106.616104",
+    "vehicleNum": 0,
+    "stationName": "曙光工业园B区",
+    "id": 1171,
+    "stationAddress": "江北区港安二路曙光工业园B区入口处"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.769655",
+    "longtitude": "106.376398",
+    "vehicleNum": 0,
+    "stationName": "北碚歇马广场",
+    "id": 1175,
+    "stationAddress": "北碚区青凤路歇马广场公交站旁"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.460093",
+    "longtitude": "104.74305",
+    "vehicleNum": 0,
+    "stationName": "御营老一队站",
+    "id": 1179,
+    "stationAddress": "四川省绵阳市涪城区御旗路（九天假日门口路边停车位）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.101933",
+    "longtitude": "112.613789",
+    "vehicleNum": 0,
+    "stationName": "森林半岛站",
+    "id": 1251,
+    "stationAddress": "河南省济源市沁园路与北海大道交叉口西北角"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.088654",
+    "longtitude": "112.601679",
+    "vehicleNum": 0,
+    "stationName": "水岸香洲站",
+    "id": 1258,
+    "stationAddress": "河南省济源市滨河南街-文昌路交叉口向东400米路南"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.11036",
+    "longtitude": "112.614701",
+    "vehicleNum": 0,
+    "stationName": "水蓝湾站",
+    "id": 1262,
+    "stationAddress": "河南省济源市济渎大街-沁园路交叉口向北200米路西"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.567571",
+    "longtitude": "104.014377",
+    "vehicleNum": 0,
+    "stationName": "四川大学江安校区",
+    "id": 1382,
+    "stationAddress": "双流区泰新路际华物流公司内（川大东北门外）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.444774",
+    "longtitude": "104.734013",
+    "vehicleNum": 0,
+    "stationName": "毅德商贸城1站",
+    "id": 897,
+    "stationAddress": "四川省绵阳市涪城区御中街（工商银行前广场停车位）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "35.100704",
+    "longtitude": "112.570332",
+    "vehicleNum": 0,
+    "stationName": "济钢北大门站",
+    "id": 931,
+    "stationAddress": "河南省济源市济水大街与国泰北路交叉口东南角（济钢北大门）"
+  },
+  {
+    "parkingNum": 23,
+    "freeVehicle": 0,
+    "latitude": "30.297458",
+    "longtitude": "120.213573",
+    "vehicleNum": 0,
+    "stationName": "杭州火车东站站",
+    "id": 949,
+    "stationAddress": "新风路新风丽都北苑东面沿街停车场（火车东站出租车西侧入口对面）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.320102",
+    "longtitude": "120.076232",
+    "vehicleNum": 0,
+    "stationName": "西港白领公寓东区站",
+    "id": 950,
+    "stationAddress": "西园四路与西园五路交叉口"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.602448",
+    "longtitude": "106.239368",
+    "vehicleNum": 0,
+    "stationName": "璧山汽车总站",
+    "id": 976,
+    "stationAddress": "璧山区长运璧山汽车总站出口阳光农贸市场内"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.62022",
+    "longtitude": "103.973666",
+    "vehicleNum": 0,
+    "stationName": "金花国际城",
+    "id": 980,
+    "stationAddress": "金花镇金凤街与武兴路交叉口（金花国际城停车场）"
+  },
+  {
+    "parkingNum": 2,
+    "freeVehicle": 0,
+    "latitude": "31.574634",
+    "longtitude": "104.702409",
+    "vehicleNum": 0,
+    "stationName": "龙门镇站",
+    "id": 1030,
+    "stationAddress": "四川省绵阳市涪城区龙门镇镇府院内停车位"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.629224",
+    "longtitude": "106.673061",
+    "vehicleNum": 0,
+    "stationName": "北安检测站",
+    "id": 1040,
+    "stationAddress": "江北区港城工业园A区北安机动车检测站内"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "31.461343",
+    "longtitude": "104.750537",
+    "vehicleNum": 0,
+    "stationName": "阳光曼哈顿站",
+    "id": 1046,
+    "stationAddress": "四川省绵阳市涪城区御林街阳光曼哈顿（邮政银行门口）路边停车位"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "30.613919",
+    "longtitude": "103.999034",
+    "vehicleNum": 0,
+    "stationName": "专透名车广场",
+    "id": 1088,
+    "stationAddress": "武侯区百锦路213号专透汽修门口"
+  },
+  {
+    "parkingNum": 25,
+    "freeVehicle": 0,
+    "latitude": "29.542399",
+    "longtitude": "106.514573",
+    "vehicleNum": 0,
+    "stationName": "龙湖时代天街关闭",
+    "id": 1105,
+    "stationAddress": "渝中区大坪正街（龙湖物业露天停车场）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.590993",
+    "longtitude": "106.533257",
+    "vehicleNum": 0,
+    "stationName": "和府饭店",
+    "id": 1109,
+    "stationAddress": "重庆市江北区红锦大道2号"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "34.727284",
+    "longtitude": "113.735945",
+    "vehicleNum": 0,
+    "stationName": "中原福塔站",
+    "id": 1228,
+    "stationAddress": "河南省郑州市管城回族区航海东路1206号（福塔售票门口）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.066192",
+    "longtitude": "112.623684",
+    "vehicleNum": 0,
+    "stationName": "升龙城南门站",
+    "id": 1159,
+    "stationAddress": "河南省济源市升龙城南门"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.492015",
+    "longtitude": "104.694103",
+    "vehicleNum": 0,
+    "stationName": "园艺山会议中心站",
+    "id": 1165,
+    "stationAddress": "四川省绵阳市科创园区创业大道237号（2号楼前停车位）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.412048",
+    "longtitude": "104.796048",
+    "vehicleNum": 0,
+    "stationName": "中玮海润城站",
+    "id": 1178,
+    "stationAddress": "四川省绵阳市经开区绵州大道中段中玮海润城广场停车位"
+  },
+  {
+    "parkingNum": 4,
+    "freeVehicle": 0,
+    "latitude": "31.481001",
+    "longtitude": "104.701587",
+    "vehicleNum": 0,
+    "stationName": "园艺山锦湖花园站",
+    "id": 1181,
+    "stationAddress": "四川省绵阳市科创园区八角南路（中国人民银行旁）路边停车位"
+  },
+  {
+    "parkingNum": 4,
+    "freeVehicle": 0,
+    "latitude": "31.467165",
+    "longtitude": "104.649536",
+    "vehicleNum": 0,
+    "stationName": "永兴永发路1站",
+    "id": 1188,
+    "stationAddress": "四川省绵阳市高新区永兴镇兴业路小学附近（路边停车位）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.328638",
+    "longtitude": "104.838485",
+    "vehicleNum": 0,
+    "stationName": "狂欢小镇站",
+    "id": 1193,
+    "stationAddress": "四川省绵阳市涪城区丰谷收费站前行500米（狂欢小镇停车场）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.61245",
+    "longtitude": "106.450097",
+    "vehicleNum": 0,
+    "stationName": "双碑轻轨站",
+    "id": 1196,
+    "stationAddress": "沙坪坝区双碑双冶汽修厂内（临近国道212）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.55172",
+    "longtitude": "106.484834",
+    "vehicleNum": 0,
+    "stationName": "广电实业亿动汇羽毛球馆",
+    "id": 1197,
+    "stationAddress": "沙坪坝区经纬大道美堤雅广电基地内（高九路芳草地转盘旁）"
+  },
+  {
+    "parkingNum": 6,
+    "freeVehicle": 0,
+    "latitude": "31.47496",
+    "longtitude": "104.73909",
+    "vehicleNum": 0,
+    "stationName": "先锋路站",
+    "id": 1230,
+    "stationAddress": "四川省绵阳市涪城区一环路西段（川府粮仓火锅斜对面广场停车位）"
+  },
+  {
+    "parkingNum": 8,
+    "freeVehicle": 0,
+    "latitude": "29.628918",
+    "longtitude": "106.504264",
+    "vehicleNum": 0,
+    "stationName": "照母山停车场",
+    "id": 1250,
+    "stationAddress": "照母山停车场"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.108378",
+    "longtitude": "112.609704",
+    "vehicleNum": 0,
+    "stationName": "庙街新村站",
+    "id": 1263,
+    "stationAddress": "河南省济源市济渎大街与沁园路交叉口向西500米路南"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.485384",
+    "longtitude": "106.4937",
+    "vehicleNum": 0,
+    "stationName": "钢花路公交站关闭",
+    "id": 1390,
+    "stationAddress": "大渡口区钢花路钢花公交站旁露天停车场"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.09747",
+    "longtitude": "112.615289",
+    "vehicleNum": 0,
+    "stationName": "上城国际站",
+    "id": 1407,
+    "stationAddress": "河南省济源市济水大街与沁园路交叉口向东100米路北"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.097882",
+    "longtitude": "112.585366",
+    "vehicleNum": 0,
+    "stationName": "济源豫光金铅站",
+    "id": 1413,
+    "stationAddress": "河南省济源市荆梁街与济水大街交叉口西南角"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.822242",
+    "longtitude": "104.2014",
+    "vehicleNum": 0,
+    "stationName": "富豪公馆",
+    "id": 1443,
+    "stationAddress": "新都区兴乐北路600号（因新都大道地铁施工需绕行）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.679334",
+    "longtitude": "104.145116",
+    "vehicleNum": 0,
+    "stationName": "成都理工大学",
+    "id": 837,
+    "stationAddress": "成华区二仙桥东三路1号（怡东国际酒店停车场内）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "31.409712",
+    "longtitude": "104.768461",
+    "vehicleNum": 0,
+    "stationName": "绵阳盼达站",
+    "id": 869,
+    "stationAddress": "四川省绵阳市经开区城南一号B区8栋前停车位"
+  },
+  {
+    "parkingNum": 7,
+    "freeVehicle": 0,
+    "latitude": "30.311794",
+    "longtitude": "120.393041",
+    "vehicleNum": 0,
+    "stationName": "浙江工商大学下沙校区站",
+    "id": 910,
+    "stationAddress": "二十七号大街301号，歌江维嘉大酒店停车场"
+  },
+  {
+    "parkingNum": 7,
+    "freeVehicle": 0,
+    "latitude": "29.589513",
+    "longtitude": "106.504744",
+    "vehicleNum": 0,
+    "stationName": "大龙山沃尔玛1站",
+    "id": 911,
+    "stationAddress": "渝北区大龙山龙湖紫都星座A栋室外停车场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.766638",
+    "longtitude": "103.986856",
+    "vehicleNum": 0,
+    "stationName": "西南交大犀浦校区",
+    "id": 912,
+    "stationAddress": "郫县犀浦镇犀浦春天酒店内（交大西南2门外）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.067544",
+    "longtitude": "112.612005",
+    "vehicleNum": 0,
+    "stationName": "第二行政区南门站",
+    "id": 1035,
+    "stationAddress": "河南省济源市沁园路与开南路交叉口向东100米路北"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.351967",
+    "longtitude": "106.616295",
+    "vehicleNum": 0,
+    "stationName": "协信汽车公园",
+    "id": 914,
+    "stationAddress": "巴南区东城大道南段协信汽车公园旁（国际纺织服装展示交易中心对面）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.482468",
+    "longtitude": "106.570074",
+    "vehicleNum": 0,
+    "stationName": "协信汽车城",
+    "id": 917,
+    "stationAddress": "巴南区渝南大道20号（重庆盛荣汽车销售有限公司门前）"
+  },
+  {
+    "parkingNum": 4,
+    "freeVehicle": 0,
+    "latitude": "31.489174",
+    "longtitude": "104.726563",
+    "vehicleNum": 0,
+    "stationName": "华润中央公园站已关闭",
+    "id": 1226,
+    "stationAddress": "四川省绵阳市科创园区华润中央公园4期凌云府东（诺筵汤品养生汤锅斜对面路边停车位）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.569585",
+    "longtitude": "106.237945",
+    "vehicleNum": 0,
+    "stationName": "摩登时代广场",
+    "id": 1051,
+    "stationAddress": "重庆璧山区金剑路496号"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.585324",
+    "longtitude": "106.607673",
+    "vehicleNum": 0,
+    "stationName": "兴欣佳园",
+    "id": 1084,
+    "stationAddress": "重庆南岸区弹子石兴欣佳园旁（弹子石大石坝加油站往涂山小学方向100米）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.504581",
+    "longtitude": "104.045012",
+    "vehicleNum": 0,
+    "stationName": "南湖梦幻岛",
+    "id": 1103,
+    "stationAddress": "双流区华阳镇街道南湖西路南湖国际社区西北门对面"
+  },
+  {
+    "parkingNum": 12,
+    "freeVehicle": 0,
+    "latitude": "31.44919",
+    "longtitude": "104.800202",
+    "vehicleNum": 0,
+    "stationName": "西科大城市学院站",
+    "id": 1129,
+    "stationAddress": "四川省绵阳市游仙区西南科技大学南100米路边停车位"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.64521",
+    "longtitude": "106.791242",
+    "vehicleNum": 0,
+    "stationName": "曙光鱼复楼宇产业园",
+    "id": 1172,
+    "stationAddress": "江北区康顺路曙光鱼复楼宇产业园入口左侧室外停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.834975",
+    "longtitude": "106.451592",
+    "vehicleNum": 0,
+    "stationName": "北碚宾馆",
+    "id": 1174,
+    "stationAddress": "北碚区朝阳碚峡路北碚宾馆内室外停车场"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.462707",
+    "longtitude": "104.701689",
+    "vehicleNum": 0,
+    "stationName": "塞纳阳光大宅门火锅站",
+    "id": 1183,
+    "stationAddress": "四川省绵阳市高新区滨河北路中段100号（西蜀大宅门火锅对面）"
+  },
+  {
+    "parkingNum": 4,
+    "freeVehicle": 0,
+    "latitude": "31.506364",
+    "longtitude": "104.688126",
+    "vehicleNum": 0,
+    "stationName": "教育园区春晖花园站",
+    "id": 1186,
+    "stationAddress": "四川省绵阳市教育园区教育南路（春晖花园停车场）"
+  },
+  {
+    "parkingNum": 4,
+    "freeVehicle": 0,
+    "latitude": "31.466997",
+    "longtitude": "104.634071",
+    "vehicleNum": 0,
+    "stationName": "永兴好吃街站",
+    "id": 1187,
+    "stationAddress": "四川省绵阳市高新区永兴镇兴亚路（路边停车位）"
+  },
+  {
+    "parkingNum": 4,
+    "freeVehicle": 0,
+    "latitude": "31.467456",
+    "longtitude": "104.64302",
+    "vehicleNum": 0,
+    "stationName": "永兴永发路2站",
+    "id": 1189,
+    "stationAddress": "四川省绵阳市高新区永兴镇永发路（永发路公交站附近路边停车位）"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "31.457848",
+    "longtitude": "104.718227",
+    "vehicleNum": 0,
+    "stationName": "丽景花城2站",
+    "id": 1190,
+    "stationAddress": "四川省绵阳市涪城区滨河北路中段（路边停车位）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.495959",
+    "longtitude": "106.550128",
+    "vehicleNum": 0,
+    "stationName": "黄桷坪川美",
+    "id": 1198,
+    "stationAddress": "九龙坡区黄桷坪正街建新路黄桷坪正街停车场建新路"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.087602",
+    "longtitude": "112.595795",
+    "vehicleNum": 0,
+    "stationName": "东留村站",
+    "id": 1257,
+    "stationAddress": "河南省济源市关帝街与滨河南街交叉口西南角"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.106629",
+    "longtitude": "112.625696",
+    "vehicleNum": 0,
+    "stationName": "金水湾站",
+    "id": 1261,
+    "stationAddress": "河南省济源市玉泉街道济渎大街与愚公路交叉口东北角"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.705964",
+    "longtitude": "113.705721",
+    "vehicleNum": 0,
+    "stationName": "移峰能源站",
+    "id": 1384,
+    "stationAddress": "河南省郑州市南三环紫宸路交叉口（西南角加油站附近）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.509291",
+    "longtitude": "106.671691",
+    "vehicleNum": 0,
+    "stationName": "长生河街",
+    "id": 1406,
+    "stationAddress": "重庆市南岸区长生河街91号"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.094261",
+    "longtitude": "112.594736",
+    "vehicleNum": 0,
+    "stationName": "西街站",
+    "id": 1416,
+    "stationAddress": "河南省济源市济水大街与龙泉路交叉口西南角"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.508216",
+    "longtitude": "104.741625",
+    "vehicleNum": 0,
+    "stationName": "花园星河湾站",
+    "id": 1421,
+    "stationAddress": "四川省绵阳市涪城区圣水南街恒星商苑附近圣水社区三组南路边停车位"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.572882",
+    "longtitude": "106.230489",
+    "vehicleNum": 0,
+    "stationName": "瀛嘉建材城",
+    "id": 1436,
+    "stationAddress": "璧山区永嘉大道102号瀛嘉建材城停车场内"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.455754",
+    "longtitude": "104.756838",
+    "vehicleNum": 0,
+    "stationName": "安江名园站出口进",
+    "id": 1451,
+    "stationAddress": "四川省绵阳市涪城区滨河北路安江名园停车场(请从停车场出口进入)"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.450847",
+    "longtitude": "106.622071",
+    "vehicleNum": 0,
+    "stationName": "鹿角迎宾花园",
+    "id": 1453,
+    "stationAddress": "巴南区军民路388-4迎宾花园"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "34.724167",
+    "longtitude": "113.749667",
+    "vehicleNum": 0,
+    "stationName": "兴华大厦站",
+    "id": 1457,
+    "stationAddress": "经开第二大街与经南三路交叉口西北角"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.598942",
+    "longtitude": "106.51745",
+    "vehicleNum": 0,
+    "stationName": "华钰龙汽车美容中心",
+    "id": 878,
+    "stationAddress": "渝北区龙溪北城国际面向巴菲盛宴右侧入口"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.416147",
+    "longtitude": "104.791312",
+    "vehicleNum": 0,
+    "stationName": "CBD万达站",
+    "id": 896,
+    "stationAddress": "四川省绵阳市经开区万达广场（万达广场内停车场）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.42345",
+    "longtitude": "104.776444",
+    "vehicleNum": 0,
+    "stationName": "经开区孵化中心站",
+    "id": 903,
+    "stationAddress": "四川省绵阳市经开区贾家店街（孵化中心内停车位）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.621315",
+    "longtitude": "106.684706",
+    "vehicleNum": 0,
+    "stationName": "铁山坪广场",
+    "id": 904,
+    "stationAddress": "江北区铁山坪森林公园"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.455755",
+    "longtitude": "104.764754",
+    "vehicleNum": 0,
+    "stationName": "市发改委站院内",
+    "id": 909,
+    "stationAddress": "四川省绵阳市涪城区体运村路72号 （市发改委院内停车位）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.625087",
+    "longtitude": "106.659742",
+    "vehicleNum": 0,
+    "stationName": "港城管委会",
+    "id": 922,
+    "stationAddress": "江北区港城南路港城管委会后门"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.608254",
+    "longtitude": "103.991506",
+    "vehicleNum": 0,
+    "stationName": "优博广场",
+    "id": 923,
+    "stationAddress": "武侯区金履一路186号"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.993552",
+    "longtitude": "106.271064",
+    "vehicleNum": 0,
+    "stationName": "蒙古风情烤全羊关闭",
+    "id": 970,
+    "stationAddress": "重庆市合川区青龙街28号金马美食街后门旁（蒙古风情烤全羊内）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.016614",
+    "longtitude": "106.284966",
+    "vehicleNum": 0,
+    "stationName": "江润香境关闭",
+    "id": 973,
+    "stationAddress": "重庆市合川区北环路江润香境东余超市门前（地库入口旁）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.463749",
+    "longtitude": "104.653514",
+    "vehicleNum": 0,
+    "stationName": "高新区检察院站",
+    "id": 1229,
+    "stationAddress": "四川省绵阳市高新区金祥南路（高新区检察院附近路边停车场）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.475652",
+    "longtitude": "104.749895",
+    "vehicleNum": 0,
+    "stationName": "长虹国际城3站",
+    "id": 1043,
+    "stationAddress": "四川省绵阳市涪城区跃进路长虹国际城（三零六火锅附近）露天停车位"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.475759",
+    "longtitude": "104.752038",
+    "vehicleNum": 0,
+    "stationName": "长虹国际城2站",
+    "id": 1044,
+    "stationAddress": "四川省绵阳市涪城区跃进路长虹国际城内（吾家便利超市附近）露天路边停车位"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.775995",
+    "longtitude": "106.472472",
+    "vehicleNum": 0,
+    "stationName": "颐尚温泉",
+    "id": 1064,
+    "stationAddress": "北碚区施家梁镇陵峡路颐尚温泉门口"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.529858",
+    "longtitude": "106.44729",
+    "vehicleNum": 0,
+    "stationName": "新桥派出所",
+    "id": 1085,
+    "stationAddress": "重庆沙坪坝区新桥正街（新桥小学门前停车场）"
+  },
+  {
+    "parkingNum": 12,
+    "freeVehicle": 0,
+    "latitude": "29.835097",
+    "longtitude": "106.429013",
+    "vehicleNum": 0,
+    "stationName": "华星阁",
+    "id": 1086,
+    "stationAddress": "重庆市北碚区天生职教中心公交站北泉派出所旁"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "31.433652",
+    "longtitude": "104.808951",
+    "vehicleNum": 0,
+    "stationName": "三星村站",
+    "id": 1090,
+    "stationAddress": "四川省绵阳市游仙区小枧沟镇快乐购超市北路边停车位"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.462703",
+    "longtitude": "104.733944",
+    "vehicleNum": 0,
+    "stationName": "益多园小区站",
+    "id": 1107,
+    "stationAddress": "四川省绵阳市涪城区滨河路西段（益多园A区附近）路边停车位"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.096721",
+    "longtitude": "112.625417",
+    "vehicleNum": 0,
+    "stationName": "泉水湾站",
+    "id": 1254,
+    "stationAddress": "河南省济源市愚公路与济水大街交叉口向东200米路北"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.487307",
+    "longtitude": "104.707572",
+    "vehicleNum": 0,
+    "stationName": "阳光清华站",
+    "id": 1115,
+    "stationAddress": "四川省绵阳市科创园区园艺东街东辰阳光清华A区内（满江红火锅旁）广场停车位"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.452849",
+    "longtitude": "104.609521",
+    "vehicleNum": 0,
+    "stationName": "绵阳磨家站",
+    "id": 1117,
+    "stationAddress": "四川省绵阳市高新区磨家镇畅想KTV背后草坪内"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.443479",
+    "longtitude": "104.789785",
+    "vehicleNum": 0,
+    "stationName": "五和城南新天地站",
+    "id": 1184,
+    "stationAddress": "四川省绵阳市经开区城南街道城南路五和城南新天地广场专用停车位"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.604563",
+    "longtitude": "104.122933",
+    "vehicleNum": 0,
+    "stationName": "锦江区政府",
+    "id": 1191,
+    "stationAddress": "锦江区琉三路北50米"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.52662",
+    "longtitude": "106.474486",
+    "vehicleNum": 0,
+    "stationName": "巴山驾校关闭",
+    "id": 1260,
+    "stationAddress": "重庆市九龙坡区石美路1号巴山加油站往巴山方向前行30米岔路口兰美路两旁市政停车位"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.527073",
+    "longtitude": "104.069479",
+    "vehicleNum": 0,
+    "stationName": "锦官丽城",
+    "id": 1383,
+    "stationAddress": "双流区华阳新希望大道114号（锦官丽城停车场内）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.497102",
+    "longtitude": "106.378556",
+    "vehicleNum": 0,
+    "stationName": "白市驿二社区停车场",
+    "id": 1401,
+    "stationAddress": "九龙坡区白市驿白林路有家超市旁入口"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.083164",
+    "longtitude": "112.589588",
+    "vehicleNum": 0,
+    "stationName": "金鑫帝景站",
+    "id": 1409,
+    "stationAddress": "河南省济源市济源大道与汤帝路交叉口东北角"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.110036",
+    "longtitude": "112.59752",
+    "vehicleNum": 0,
+    "stationName": "马寨站",
+    "id": 1411,
+    "stationAddress": "河南省济源市济渎大街与龙泉路交叉口西南角"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.113995",
+    "longtitude": "112.568097",
+    "vehicleNum": 0,
+    "stationName": "汇景家园站",
+    "id": 1415,
+    "stationAddress": "河南省济源市龙潭路与济渎大街交叉口西北角"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "34.76756",
+    "longtitude": "113.78802",
+    "vehicleNum": 0,
+    "stationName": "郑州高铁东站",
+    "id": 1433,
+    "stationAddress": "河南省郑州市金水区高铁东站东北角停车场（高铁P4）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.810419",
+    "longtitude": "113.699",
+    "vehicleNum": 0,
+    "stationName": "金印现代城",
+    "id": 1440,
+    "stationAddress": "河南省郑州市金水区经三路与广电南路交汇处西南角（金印现代城停车场）"
+  },
+  {
+    "parkingNum": 8,
+    "freeVehicle": 0,
+    "latitude": "31.486076",
+    "longtitude": "104.744566",
+    "vehicleNum": 0,
+    "stationName": "东方华尔街站",
+    "id": 1452,
+    "stationAddress": "四川省绵阳市涪城区长虹大道北段东方华尔街旁停车场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.393576",
+    "longtitude": "106.625001",
+    "vehicleNum": 0,
+    "stationName": "曙光江南楼宇产业园",
+    "id": 847,
+    "stationAddress": "巴南区界石路曙光江南楼宇产业园招商部旁室外停车场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.509181",
+    "longtitude": "106.380379",
+    "vehicleNum": 0,
+    "stationName": "中西医结合医院",
+    "id": 883,
+    "stationAddress": "九龙坡区白市驿渝水坊营销中心对面"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.699032",
+    "longtitude": "104.09429",
+    "vehicleNum": 0,
+    "stationName": "春天美居",
+    "id": 924,
+    "stationAddress": "金牛区二环路北三段21号附11（春天美居停车场内）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.755668",
+    "longtitude": "106.65759",
+    "vehicleNum": 0,
+    "stationName": "恒通电动客车站测试",
+    "id": 951,
+    "stationAddress": "渝北区重庆空港工业园区内（恒通电动客车动力系统公司西门远程监控中心处）"
+  },
+  {
+    "parkingNum": 9,
+    "freeVehicle": 0,
+    "latitude": "30.636854",
+    "longtitude": "104.151984",
+    "vehicleNum": 0,
+    "stationName": "瑞峰公寓酒店",
+    "id": 956,
+    "stationAddress": "成华区成都东站东广场旁（瑞峰公寓酒店门口旁）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.98328",
+    "longtitude": "106.27932",
+    "vehicleNum": 0,
+    "stationName": "合川体育馆关闭",
+    "id": 969,
+    "stationAddress": "重庆市合川区南屏路与江亭路交叉口（合川体育馆内）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.386779",
+    "longtitude": "106.533873",
+    "vehicleNum": 0,
+    "stationName": "都汇里",
+    "id": 1240,
+    "stationAddress": "巴南区鱼洞新市街都汇里室外停车场"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.51021",
+    "longtitude": "104.792907",
+    "vehicleNum": 0,
+    "stationName": "欧家坝站",
+    "id": 1027,
+    "stationAddress": "四川省绵阳市游仙区游仙镇民康路路边停车位"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.350471",
+    "longtitude": "104.831802",
+    "vehicleNum": 0,
+    "stationName": "丰谷站",
+    "id": 1041,
+    "stationAddress": "四川省绵阳市涪城区丰谷镇胜利南路28路公交车站路边停车位"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.629898",
+    "longtitude": "106.596093",
+    "vehicleNum": 0,
+    "stationName": "保税商品展示交易中心",
+    "id": 1060,
+    "stationAddress": "重庆市江北区海尔路 319 号"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.463272",
+    "longtitude": "104.73094",
+    "vehicleNum": 0,
+    "stationName": "花园小区2站",
+    "id": 1082,
+    "stationAddress": "四川省绵阳市涪城区临园路西段花园小区路边停车位"
+  },
+  {
+    "parkingNum": 4,
+    "freeVehicle": 0,
+    "latitude": "31.459169",
+    "longtitude": "104.641787",
+    "vehicleNum": 0,
+    "stationName": "云朗汽车站",
+    "id": 1091,
+    "stationAddress": "四川省绵阳市高新区飞云大道中段（丰谷酒业对面）云朗停车位"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "31.406584",
+    "longtitude": "104.746946",
+    "vehicleNum": 0,
+    "stationName": "富临精工新厂站",
+    "id": 1104,
+    "stationAddress": "四川省绵阳市涪城区高端设备制造产业园凤凰中路37号富临精工新厂路边停车位"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.494751",
+    "longtitude": "104.706295",
+    "vehicleNum": 0,
+    "stationName": "上马新村站",
+    "id": 1128,
+    "stationAddress": "四川省绵阳市科创园区科创园街道上马北街（停车场）"
+  },
+  {
+    "parkingNum": 4,
+    "freeVehicle": 0,
+    "latitude": "31.385087",
+    "longtitude": "104.846498",
+    "vehicleNum": 0,
+    "stationName": "四川电子机械职业技术学院站",
+    "id": 1166,
+    "stationAddress": "四川省绵阳市游仙区松垭隆康路10号（学校门口斜对面智能网咖门口广场停车位）"
+  },
+  {
+    "parkingNum": 4,
+    "freeVehicle": 0,
+    "latitude": "31.486207",
+    "longtitude": "104.692929",
+    "vehicleNum": 0,
+    "stationName": "科创园街道八角南路站",
+    "id": 1182,
+    "stationAddress": "四川省绵阳市科创园区科园街道八角南路(路边停车位)"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.542266",
+    "longtitude": "106.560108",
+    "vehicleNum": 0,
+    "stationName": "英华天元",
+    "id": 1192,
+    "stationAddress": "重庆市铜元局江苑路8号"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.102502",
+    "longtitude": "112.608363",
+    "vehicleNum": 0,
+    "stationName": "星湖湾站",
+    "id": 1252,
+    "stationAddress": "河南省济源市沁园路与北海大道交叉口向西250米路北"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.446827",
+    "longtitude": "106.556514",
+    "vehicleNum": 0,
+    "stationName": "源生驾校训练基地",
+    "id": 1398,
+    "stationAddress": "重庆巴南区渝南大道源生驾校训练基地（曦园观南山旁）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.664325",
+    "longtitude": "106.599988",
+    "vehicleNum": 0,
+    "stationName": "西正街",
+    "id": 1402,
+    "stationAddress": "重庆市渝北区宝圣大道西正街车库入口旁（临近两江中学公交站）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.549575",
+    "longtitude": "106.506443",
+    "vehicleNum": 0,
+    "stationName": "升伟中环广场",
+    "id": 1403,
+    "stationAddress": "渝中区虎歇路升伟中环广场露天停车场"
+  },
+  {
+    "parkingNum": 50,
+    "freeVehicle": 0,
+    "latitude": "34.704172",
+    "longtitude": "114.017679",
+    "vehicleNum": 0,
+    "stationName": "郑州东工站",
+    "id": 1404,
+    "stationAddress": "郑州东工"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.097487",
+    "longtitude": "112.602798",
+    "vehicleNum": 0,
+    "stationName": "济源宾馆站",
+    "id": 1412,
+    "stationAddress": "河南省济源市宣化街与文昌路交叉口向东150米路北"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.107558",
+    "longtitude": "112.555514",
+    "vehicleNum": 0,
+    "stationName": "峰景国际站",
+    "id": 1414,
+    "stationAddress": "河南省济源市北海大道与西环路交叉口向南200米路东"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "34.73094",
+    "longtitude": "113.651441",
+    "vehicleNum": 0,
+    "stationName": "新象城站",
+    "id": 1458,
+    "stationAddress": "郑州市二七区新象城（沃尔玛北侧）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.545487",
+    "longtitude": "106.537735",
+    "vehicleNum": 0,
+    "stationName": "复旦中学",
+    "id": 1474,
+    "stationAddress": "重庆市渝中区菜袁路平安街159号"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.507593",
+    "longtitude": "106.491979",
+    "vehicleNum": 0,
+    "stationName": "隆鑫西城汇",
+    "id": 836,
+    "stationAddress": "九龙坡区火炬大道隆鑫西城汇露天停车场内"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.416181",
+    "longtitude": "104.769878",
+    "vehicleNum": 0,
+    "stationName": "南区花园站",
+    "id": 842,
+    "stationAddress": "四川省绵阳市经开区万人居民点南区花园（广场停车位内）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.466363",
+    "longtitude": "104.658639",
+    "vehicleNum": 0,
+    "stationName": "宜家美城市广场站",
+    "id": 849,
+    "stationAddress": "四川省绵阳市高新区绵兴中路195号宜家美城市广场1号门前广场内"
+  },
+  {
+    "parkingNum": 8,
+    "freeVehicle": 0,
+    "latitude": "31.489611",
+    "longtitude": "104.750542",
+    "vehicleNum": 0,
+    "stationName": "五一广场站",
+    "id": 867,
+    "stationAddress": "四川省绵阳市涪城区跃进路北段33号（五一广场内停车位）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.344839",
+    "longtitude": "106.618938",
+    "vehicleNum": 0,
+    "stationName": "华南城会展中心A站",
+    "id": 915,
+    "stationAddress": "巴南区华南城东城大道南段300米处（A展厅西2门口前）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.344934",
+    "longtitude": "106.619683",
+    "vehicleNum": 0,
+    "stationName": "华南城会展中心B站",
+    "id": 916,
+    "stationAddress": "巴南区华南城东城大道南段450米处（华南城会展中心大门前）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "30.746185",
+    "longtitude": "103.938516",
+    "vehicleNum": 0,
+    "stationName": "电子科大清水河校区",
+    "id": 918,
+    "stationAddress": "郫县西源大道1085号附近"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.433534",
+    "longtitude": "104.756381",
+    "vehicleNum": 0,
+    "stationName": "南郊机场站",
+    "id": 919,
+    "stationAddress": "四川省绵阳市涪城区机场东路2号（机场停车场内）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.481337",
+    "longtitude": "104.777094",
+    "vehicleNum": 0,
+    "stationName": "芙蓉汉城站",
+    "id": 942,
+    "stationAddress": "四川省绵阳市游仙区剑南路东段芙蓉汉城凯撒KTV旁"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.497195",
+    "longtitude": "104.701681",
+    "vehicleNum": 0,
+    "stationName": "创新中心站",
+    "id": 948,
+    "stationAddress": "四川省绵阳市科创园区中国科技城创新中心内广场停车位"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.073064",
+    "longtitude": "112.599698",
+    "vehicleNum": 0,
+    "stationName": "世纪华城站",
+    "id": 952,
+    "stationAddress": "河南省济源市黄河大道与文昌路交叉口东南角"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.088203",
+    "longtitude": "112.621512",
+    "vehicleNum": 0,
+    "stationName": "河合东站",
+    "id": 953,
+    "stationAddress": "河南省济源市河苑街与愚公路交叉口向西100米路北（地税局城区分局旁）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.689573",
+    "longtitude": "106.840064",
+    "vehicleNum": 0,
+    "stationName": "际华园",
+    "id": 961,
+    "stationAddress": "渝北区龙兴镇际华园南路际华园停车场内"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.014269",
+    "longtitude": "106.286744",
+    "vehicleNum": 0,
+    "stationName": "江润地中海岸关闭",
+    "id": 971,
+    "stationAddress": "重庆市合川区嘉滨路600号江润地中海岸销售中心旁"
+  },
+  {
+    "parkingNum": 4,
+    "freeVehicle": 0,
+    "latitude": "31.379271",
+    "longtitude": "104.855801",
+    "vehicleNum": 0,
+    "stationName": "松垭镇政府站",
+    "id": 1052,
+    "stationAddress": "四川省绵阳市游仙区松垭镇德政街（德政街小学前200米禁止停在学校门口）路边停车位"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "31.472063",
+    "longtitude": "104.779884",
+    "vehicleNum": 0,
+    "stationName": "沈家坝站",
+    "id": 1056,
+    "stationAddress": "四川省绵阳市游仙区沈家坝街（国税局前路边停车位）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.466816",
+    "longtitude": "106.527917",
+    "vehicleNum": 0,
+    "stationName": "上丁范",
+    "id": 1068,
+    "stationAddress": "重庆市巴南区李家沱融汇大道上丁范销售中心门前广场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.64069",
+    "longtitude": "104.010672",
+    "vehicleNum": 0,
+    "stationName": "武侯立交",
+    "id": 1071,
+    "stationAddress": "武侯区簇锦街道顺和街中华名园旁"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "31.408471",
+    "longtitude": "104.799239",
+    "vehicleNum": 0,
+    "stationName": "塘汛镇政府站院内",
+    "id": 1102,
+    "stationAddress": "四川省绵阳市经开区塘汛街塘汛镇政府院内停车位"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.409904",
+    "longtitude": "106.548237",
+    "vehicleNum": 0,
+    "stationName": "巴南中医院临时关闭",
+    "id": 1119,
+    "stationAddress": "巴南区龙德路巴南中医院内"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.515133",
+    "longtitude": "106.465175",
+    "vehicleNum": 0,
+    "stationName": "康田西锦",
+    "id": 1125,
+    "stationAddress": "九龙坡区科技大道120号"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.48538",
+    "longtitude": "104.702016",
+    "vehicleNum": 0,
+    "stationName": "科创园区管委会站",
+    "id": 1158,
+    "stationAddress": "四川省绵阳市科创园区八角北路（科创园区管委会院内停车位）"
+  },
+  {
+    "parkingNum": 4,
+    "freeVehicle": 0,
+    "latitude": "35.110157",
+    "longtitude": "112.603916",
+    "vehicleNum": 0,
+    "stationName": "联盟新城站",
+    "id": 1161,
+    "stationAddress": "河南省济源市济渎大街与文昌路交叉口往北100米路西（北海花苑东北）"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "31.401316",
+    "longtitude": "104.8446",
+    "vehicleNum": 0,
+    "stationName": "五里梁能源站",
+    "id": 1163,
+    "stationAddress": "四川省绵阳市游仙区小枧沟镇五里梁南路移峰能源站内停车位"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "35.084265",
+    "longtitude": "112.578553",
+    "vehicleNum": 0,
+    "stationName": "蓬莱阁站",
+    "id": 1168,
+    "stationAddress": "河南省济源市济源大道与天坛路交叉口东北角"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.395278",
+    "longtitude": "106.628472",
+    "vehicleNum": 0,
+    "stationName": "曙光江南楼宇产业园2站",
+    "id": 1173,
+    "stationAddress": "巴南区界石路曙光江南楼宇产业园D5栋旁"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "30.661948",
+    "longtitude": "104.090046",
+    "vehicleNum": 0,
+    "stationName": "锦江区办证中心",
+    "id": 1194,
+    "stationAddress": "成都市锦江区大慈寺路48号（限停5辆）"
+  },
+  {
+    "parkingNum": 4,
+    "freeVehicle": 0,
+    "latitude": "31.487662",
+    "longtitude": "104.701385",
+    "vehicleNum": 0,
+    "stationName": "长兴太阳城站已关闭",
+    "id": 1212,
+    "stationAddress": "四川省绵阳市科创园区园艺街（少年宫幼儿园对面路边停车位）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.077788",
+    "longtitude": "112.599973",
+    "vehicleNum": 0,
+    "stationName": "华新小区站",
+    "id": 1253,
+    "stationAddress": "河南省济源市文昌路与玉川街交叉口东南角"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.100117",
+    "longtitude": "112.614027",
+    "vehicleNum": 0,
+    "stationName": "世纪酒店站",
+    "id": 1255,
+    "stationAddress": "河南省济源市沁园路-济水大街交叉口向北100米路东"
+  },
+  {
+    "parkingNum": 2,
+    "freeVehicle": 0,
+    "latitude": "35.078895",
+    "longtitude": "112.589781",
+    "vehicleNum": 0,
+    "stationName": "光光酱炒鸡园丁苑店站",
+    "id": 1256,
+    "stationAddress": "河南省济源市汤帝路与玉川街交叉口向东100米路南停车位（光光酱炒鸡店对面）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.723943",
+    "longtitude": "104.040087",
+    "vehicleNum": 0,
+    "stationName": "华侨城欢乐谷",
+    "id": 1264,
+    "stationAddress": "四川成都金牛区光华大道欢乐谷麦鲁小镇旁"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.392456",
+    "longtitude": "106.609236",
+    "vehicleNum": 0,
+    "stationName": "星界大酒店",
+    "id": 1391,
+    "stationAddress": "重庆巴南区界石镇石美大道581号"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.406647",
+    "longtitude": "106.543134",
+    "vehicleNum": 0,
+    "stationName": "湘聚饭店",
+    "id": 1400,
+    "stationAddress": "重庆市巴南区龙洲大道1号湘聚饭店内"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.785043",
+    "longtitude": "106.66013",
+    "vehicleNum": 0,
+    "stationName": "桥达蓝湾半岛关闭",
+    "id": 1405,
+    "stationAddress": "重庆市渝北区木耳镇桥达蓝湾半岛销售中心"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.112542",
+    "longtitude": "112.604734",
+    "vehicleNum": 0,
+    "stationName": "济隆花城站",
+    "id": 1410,
+    "stationAddress": "河南省济源市北环路与文昌路交叉口向南500米路东"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.48365",
+    "longtitude": "104.707796",
+    "vehicleNum": 0,
+    "stationName": "温莎国际社区站",
+    "id": 1418,
+    "stationAddress": "四川省绵阳市科创园区科创园街道元通路温莎国际社区附近路边停车位"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.49021",
+    "longtitude": "106.376893",
+    "vehicleNum": 0,
+    "stationName": "荷塘月色",
+    "id": 880,
+    "stationAddress": "九龙坡区白市驿西城金色上行100米"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.52279",
+    "longtitude": "106.386478",
+    "vehicleNum": 0,
+    "stationName": "环球锦标石材产业园",
+    "id": 884,
+    "stationAddress": "九龙坡区含谷镇成渝环线高速路旁距含谷镇镇政府东南850米"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.445615",
+    "longtitude": "104.763132",
+    "vehicleNum": 0,
+    "stationName": "126文化创意园站",
+    "id": 886,
+    "stationAddress": "四川省绵阳市涪城区长虹大道南段南400米（126大门旁停车场）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.485198",
+    "longtitude": "106.644061",
+    "vehicleNum": 0,
+    "stationName": "卓越时代中心",
+    "id": 920,
+    "stationAddress": "南岸区茶园玉马路卓越国虹时代销售中心旁车库入口车库保安亭旁露天位置"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.491584",
+    "longtitude": "104.788647",
+    "vehicleNum": 0,
+    "stationName": "锅边转站",
+    "id": 929,
+    "stationAddress": "四川省绵阳市游仙区仙人路一段（锅边转背后停车场）"
+  },
+  {
+    "parkingNum": 8,
+    "freeVehicle": 0,
+    "latitude": "35.069731",
+    "longtitude": "112.63282",
+    "vehicleNum": 0,
+    "stationName": "职教园区站",
+    "id": 947,
+    "stationAddress": "河南省济源市黄河大道与东环路交叉口往东200米路南（济源市职业技术学院新校区北门）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.444996",
+    "longtitude": "104.800957",
+    "vehicleNum": 0,
+    "stationName": "吉顺汽修站",
+    "id": 958,
+    "stationAddress": "四川省绵阳市游仙区三星路一号桥旁（吉顺汽修厂内）"
+  },
+  {
+    "parkingNum": 17,
+    "freeVehicle": 0,
+    "latitude": "29.503904",
+    "longtitude": "106.57683",
+    "vehicleNum": 0,
+    "stationName": "六公里宝渝星悦汇",
+    "id": 960,
+    "stationAddress": "重庆市南岸区六公里回龙路90号宝渝星悦汇停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.587032",
+    "longtitude": "106.21558",
+    "vehicleNum": 0,
+    "stationName": "秀湖鹭岛关闭",
+    "id": 1050,
+    "stationAddress": "重庆璧山黛山大道秀湖公园西门旁"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.552536",
+    "longtitude": "106.475743",
+    "vehicleNum": 0,
+    "stationName": "友谊骨科医院",
+    "id": 1054,
+    "stationAddress": "沙坪坝区马家岩友谊骨科医院停车场内"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.766939",
+    "longtitude": "104.07672",
+    "vehicleNum": 0,
+    "stationName": "大丰五岳合广场",
+    "id": 1076,
+    "stationAddress": "新都区花都大道交大数字三区旁（锦绣皇城旁）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.463067",
+    "longtitude": "104.731635",
+    "vehicleNum": 0,
+    "stationName": "花园小区1站",
+    "id": 1081,
+    "stationAddress": "四川省绵阳市涪城区花园南街花园小区路边停车位"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.406457",
+    "longtitude": "104.799534",
+    "vehicleNum": 0,
+    "stationName": "金楠天街站",
+    "id": 1101,
+    "stationAddress": "四川省绵阳市经开区塘汛镇卓信金楠天街靠绵山路一侧广场停车位"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.61663",
+    "longtitude": "106.696358",
+    "vehicleNum": 0,
+    "stationName": "五季元食疗养生养老旅游度假基地",
+    "id": 1120,
+    "stationAddress": "重庆市江北区铁山坪逸兴路19号1幢"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.500603",
+    "longtitude": "106.579736",
+    "vehicleNum": 0,
+    "stationName": "重庆互悦酒店",
+    "id": 1126,
+    "stationAddress": "重庆市南岸区学府大道58号"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.608489",
+    "longtitude": "106.381808",
+    "vehicleNum": 0,
+    "stationName": "康田企业港",
+    "id": 1127,
+    "stationAddress": "沙坪坝区科技大道120号西永街道西园北街6号"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.074735",
+    "longtitude": "112.605291",
+    "vehicleNum": 0,
+    "stationName": "教育局站",
+    "id": 1167,
+    "stationAddress": "河南省济源市教育局南门口"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.083459",
+    "longtitude": "112.581813",
+    "vehicleNum": 0,
+    "stationName": "豫光花园站",
+    "id": 1259,
+    "stationAddress": "河南省济源市济源大道与荆梁路交叉口向西150米路南"
+  },
+  {
+    "parkingNum": 2,
+    "freeVehicle": 0,
+    "latitude": "31.530826",
+    "longtitude": "104.6923",
+    "vehicleNum": 0,
+    "stationName": "青义镇政府站院内",
+    "id": 1380,
+    "stationAddress": "四川省绵阳市涪城区青义镇飞龙大道南段99号（镇政府院内）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.504309",
+    "longtitude": "106.525873",
+    "vehicleNum": 0,
+    "stationName": "新华春天",
+    "id": 1389,
+    "stationAddress": "重庆市九龙坡区西子路202号新华春天小区内"
+  },
+  {
+    "parkingNum": 4,
+    "freeVehicle": 0,
+    "latitude": "34.736928",
+    "longtitude": "113.752851",
+    "vehicleNum": 0,
+    "stationName": "大河国际酒店站",
+    "id": 1397,
+    "stationAddress": "河南省郑州市第三大街经北一路入口处"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.492339",
+    "longtitude": "104.776064",
+    "vehicleNum": 0,
+    "stationName": "恒祥银座站",
+    "id": 1445,
+    "stationAddress": "四川省绵阳市游仙区六里村梨园食府交警三大队旁边停车场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.438236",
+    "longtitude": "106.499883",
+    "vehicleNum": 0,
+    "stationName": "茄子溪",
+    "id": 1438,
+    "stationAddress": "重庆市大渡口区茄子溪四达路，静江花园对面"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.525328",
+    "longtitude": "106.556411",
+    "vehicleNum": 0,
+    "stationName": "桃源路大石桥社区",
+    "id": 1439,
+    "stationAddress": "重庆市南岸区桃源路与环湖路交界处"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.466485",
+    "longtitude": "104.745226",
+    "vehicleNum": 0,
+    "stationName": "得月星城站",
+    "id": 1449,
+    "stationAddress": "四川省绵阳市涪城区长虹大道南段得月新城停车场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.496661",
+    "longtitude": "104.745484",
+    "vehicleNum": 0,
+    "stationName": "长虹世纪城站出口进",
+    "id": 1450,
+    "stationAddress": "四川省绵阳市涪城区长虹大道北段长虹世纪城古今一家楼下停车场（请从停车场出口进）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.530025",
+    "longtitude": "106.672477",
+    "vehicleNum": 0,
+    "stationName": "新天泽国际总部城",
+    "id": 1454,
+    "stationAddress": "南岸区茶园江迎路新天泽国际总部城"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.721724",
+    "longtitude": "113.650051",
+    "vehicleNum": 0,
+    "stationName": "二七万达站",
+    "id": 1456,
+    "stationAddress": "汉江路与大学南路交叉口西北角（民生银行处）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.544065",
+    "longtitude": "106.525379",
+    "vehicleNum": 0,
+    "stationName": "大坪如家酒店已关闭",
+    "id": 1459,
+    "stationAddress": "重庆市渝中区大坪如家酒店旁停车场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.555585",
+    "longtitude": "106.538925",
+    "vehicleNum": 0,
+    "stationName": "佛图关轻轨站",
+    "id": 1460,
+    "stationAddress": "重庆市渝中区佛图关轻轨站旁停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.648593",
+    "longtitude": "106.556613",
+    "vehicleNum": 0,
+    "stationName": "爱琴海购物公园",
+    "id": 1463,
+    "stationAddress": "渝北区金开大道红星国际广场爱琴海购物公园3号门优衣库门口"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.713444",
+    "longtitude": "106.614505",
+    "vehicleNum": 0,
+    "stationName": "汇祥空港荟街",
+    "id": 1499,
+    "stationAddress": "渝北区双龙湖街道汇祥空港荟街农村商业银行门前停车场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.534783",
+    "longtitude": "106.567483",
+    "vehicleNum": 0,
+    "stationName": "百联南岸上海城购物中心",
+    "id": 1503,
+    "stationAddress": "重庆市南岸区南坪西路58号百联南岸上海城购物中心门口"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.464875",
+    "longtitude": "106.636032",
+    "vehicleNum": 0,
+    "stationName": "融创欧麓花园城爱丽舍庄园",
+    "id": 1504,
+    "stationAddress": "重庆市巴南区天鹿大道爱丽舍庄园内"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.602755",
+    "longtitude": "106.51508",
+    "vehicleNum": 0,
+    "stationName": "荣升部落格",
+    "id": 1506,
+    "stationAddress": "重庆市渝北区龙华大道重庆爱尚汽车销售有限公司旁"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.050241",
+    "longtitude": "112.608631",
+    "vehicleNum": 0,
+    "stationName": "济源轵城镇站",
+    "id": 1510,
+    "stationAddress": "河南省济源市轵城镇沁园南路济源农村商业银行旁"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.104945",
+    "longtitude": "112.514853",
+    "vehicleNum": 0,
+    "stationName": "济源思礼镇站",
+    "id": 1513,
+    "stationAddress": "河南省济源市思礼镇思礼民政所对面停车场（中国农业银行附近）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.468833",
+    "longtitude": "106.538045",
+    "vehicleNum": 0,
+    "stationName": "江南民族村江湖菜",
+    "id": 1522,
+    "stationAddress": "重庆市巴南区红光大道72号江南水乡119号江南民族村烤全羊内"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.472438",
+    "longtitude": "106.473951",
+    "vehicleNum": 0,
+    "stationName": "华生园金色蛋糕梦幻王国",
+    "id": 1535,
+    "stationAddress": "重庆市大渡口区凤祥路123号华生园金色蛋糕梦幻王国内"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.502918",
+    "longtitude": "106.47392",
+    "vehicleNum": 0,
+    "stationName": "华生园大厦",
+    "id": 1558,
+    "stationAddress": "重庆市九龙坡区诗情路华生园大厦楼后停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.571406",
+    "longtitude": "106.601178",
+    "vehicleNum": 0,
+    "stationName": "慈云寺",
+    "id": 1821,
+    "stationAddress": "重庆市南岸区涂山镇海狮路1号"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.635016",
+    "longtitude": "106.579583",
+    "vehicleNum": 0,
+    "stationName": "金山派出所",
+    "id": 1845,
+    "stationAddress": "重庆市渝北区汇通路1号"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "35.075801",
+    "longtitude": "112.580246",
+    "vehicleNum": 0,
+    "stationName": "济源邮政花园站",
+    "id": 1849,
+    "stationAddress": "河南省济源市黄河大道与天坛路交叉口向东300米路南"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.561801",
+    "longtitude": "106.309198",
+    "vehicleNum": 0,
+    "stationName": "曾家菜市场",
+    "id": 2062,
+    "stationAddress": "沙坪坝区曾家正街曾家菜市场旁室外停车场"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.090866",
+    "longtitude": "112.579339",
+    "vehicleNum": 0,
+    "stationName": "济源华山医院站",
+    "id": 2066,
+    "stationAddress": "河南省济源市天坛路与滨河北街交叉口东北角"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "35.17225",
+    "longtitude": "112.744047",
+    "vehicleNum": 0,
+    "stationName": "济源五龙口镇西逯寨站",
+    "id": 2067,
+    "stationAddress": "河南省济源市五龙口镇西逯寨村村委会门前"
+  },
+  {
+    "parkingNum": 2,
+    "freeVehicle": 0,
+    "latitude": "35.178339",
+    "longtitude": "112.765593",
+    "vehicleNum": 0,
+    "stationName": "济源五龙口镇东逯寨站",
+    "id": 2069,
+    "stationAddress": "河南省济源市五龙口镇东逯寨村村委会西篮球场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.733344",
+    "longtitude": "106.597055",
+    "vehicleNum": 0,
+    "stationName": "鲁能中央公馆",
+    "id": 2073,
+    "stationAddress": "渝北区同茂大道中央公园旁鲁能中央公馆销售中心"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.435377",
+    "longtitude": "106.494678",
+    "vehicleNum": 0,
+    "stationName": "子溪苑",
+    "id": 2074,
+    "stationAddress": "大渡口区茄子溪子溪苑商业街停车场"
+  },
+  {
+    "parkingNum": 30,
+    "freeVehicle": 0,
+    "latitude": "29.651531",
+    "longtitude": "106.578977",
+    "vehicleNum": 0,
+    "stationName": "汽博留云路",
+    "id": 2095,
+    "stationAddress": "重庆市渝北区留云路与龙睛路交叉口"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.635299",
+    "longtitude": "104.024712",
+    "vehicleNum": 0,
+    "stationName": "港汇广场",
+    "id": 2096,
+    "stationAddress": "武侯区永盛路港汇广场西"
+  },
+  {
+    "parkingNum": 50,
+    "freeVehicle": 0,
+    "latitude": "29.429825",
+    "longtitude": "106.552318",
+    "vehicleNum": 0,
+    "stationName": "源丰修理厂",
+    "id": 2114,
+    "stationAddress": "巴南区晟源名车维修有限公司"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "30.707738",
+    "longtitude": "103.992881",
+    "vehicleNum": 0,
+    "stationName": "翔欣宇维修部",
+    "id": 2139,
+    "stationAddress": "金牛区金泉街道黄金路清水四组公交站南50米"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.142487",
+    "longtitude": "120.16816",
+    "vehicleNum": 0,
+    "stationName": "湘湖购物中心站",
+    "id": 2143,
+    "stationAddress": "萧山区万达北路278号博程商务酒店门口"
+  },
+  {
+    "parkingNum": 50,
+    "freeVehicle": 0,
+    "latitude": "29.403977",
+    "longtitude": "106.551013",
+    "vehicleNum": 0,
+    "stationName": "巴南万达广场销售中心",
+    "id": 2151,
+    "stationAddress": "巴南区渝南大道学堂湾轻轨站旁（巴南金街内）"
+  },
+  {
+    "parkingNum": 30,
+    "freeVehicle": 0,
+    "latitude": "30.691198",
+    "longtitude": "104.18011",
+    "vehicleNum": 0,
+    "stationName": "非到站换电",
+    "id": 2156,
+    "stationAddress": "成华区龙潭寺工业园远华物流公司"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.436992",
+    "longtitude": "106.55725",
+    "vehicleNum": 0,
+    "stationName": "宗申青年国际",
+    "id": 2168,
+    "stationAddress": "巴南区花溪轻轨站宗申青年国际商业街露天停车场内"
+  },
+  {
+    "parkingNum": 1,
+    "freeVehicle": 0,
+    "latitude": "35.088953",
+    "longtitude": "112.517311",
+    "vehicleNum": 0,
+    "stationName": "承留镇卫庄站",
+    "id": 2176,
+    "stationAddress": "河南省济源市承留镇卫庄承留镇实验幼儿园南侧"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.59659",
+    "longtitude": "104.036606",
+    "vehicleNum": 0,
+    "stationName": "捷龙三菱猎豹4s店",
+    "id": 2189,
+    "stationAddress": "武侯区石羊场街道成都捷龙贸易有限责任公司"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.594747",
+    "longtitude": "106.311785",
+    "vehicleNum": 0,
+    "stationName": "东方剑桥",
+    "id": 2195,
+    "stationAddress": "沙坪坝区大学城思贤路东方剑桥春风幼儿园对面"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.441446",
+    "longtitude": "106.451906",
+    "vehicleNum": 0,
+    "stationName": "华宇锦绣广场",
+    "id": 1489,
+    "stationAddress": "九龙坡区华福大道华宇•锦绣广场次入口（沁园蛋糕店旁）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.47234",
+    "longtitude": "106.636042",
+    "vehicleNum": 0,
+    "stationName": "融创欧麓花园城孙继海足球基地",
+    "id": 1505,
+    "stationAddress": "重庆市南岸区融创欧麓花园城内 "
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.468755",
+    "longtitude": "104.688184",
+    "vehicleNum": 0,
+    "stationName": "阳光西雅图站已关闭",
+    "id": 1507,
+    "stationAddress": "四川省绵阳市高新区火炬东街阳光西雅图广场停车位"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.57123",
+    "longtitude": "104.695808",
+    "vehicleNum": 0,
+    "stationName": "绵阳农资批发市场站",
+    "id": 1508,
+    "stationAddress": "四川省绵阳市涪城区龙门镇南北干道绵阳农资批发市场门口停车位"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.13892",
+    "longtitude": "112.691882",
+    "vehicleNum": 0,
+    "stationName": "济源五龙口镇辛庄站",
+    "id": 1511,
+    "stationAddress": "河南省济源市五龙口辛庄村委会门口左侧"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.529239",
+    "longtitude": "104.711551",
+    "vehicleNum": 0,
+    "stationName": "青义蓝波湾宝骉眼镜站",
+    "id": 1533,
+    "stationAddress": "四川省绵阳市涪城区青义镇青龙大道南段宝骉眼镜对面停车位"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.528675",
+    "longtitude": "106.50912",
+    "vehicleNum": 0,
+    "stationName": "隆鑫国际",
+    "id": 1544,
+    "stationAddress": "九龙坡区龙腾大道隆鑫国际拜博口腔专用停车库"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.522299",
+    "longtitude": "106.321733",
+    "vehicleNum": 0,
+    "stationName": "金凤建筑集团",
+    "id": 1553,
+    "stationAddress": "九龙坡区金凤镇海含路9号金凤建筑集团内停车场"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.166161",
+    "longtitude": "112.547992",
+    "vehicleNum": 0,
+    "stationName": "济源克井镇站",
+    "id": 1848,
+    "stationAddress": "河南省济源市克井镇克留线（北辰路）与西二环交叉口向西100米路南（克井镇文化站楼前）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.337695",
+    "longtitude": "120.109961",
+    "vehicleNum": 0,
+    "stationName": "孔家埭长青文创园站",
+    "id": 2053,
+    "stationAddress": "孔家埭路5号长青文创园大楼东侧"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.49966",
+    "longtitude": "106.478339",
+    "vehicleNum": 0,
+    "stationName": "中交丽景",
+    "id": 2056,
+    "stationAddress": "重庆市大渡口区双龙路2号中交丽景一期地下车库入口旁露天停车场爱情公园对面"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "35.156245",
+    "longtitude": "112.749307",
+    "vehicleNum": 0,
+    "stationName": "济源五龙口镇任寨站",
+    "id": 2068,
+    "stationAddress": "河南省济源市五龙口镇任寨村村委篮球场"
+  },
+  {
+    "parkingNum": 1,
+    "freeVehicle": 0,
+    "latitude": "35.13902",
+    "longtitude": "112.741599",
+    "vehicleNum": 0,
+    "stationName": "济源五龙口镇化村站",
+    "id": 2078,
+    "stationAddress": "河南省济源市五龙口镇化村村委会"
+  },
+  {
+    "parkingNum": 1,
+    "freeVehicle": 0,
+    "latitude": "35.148373",
+    "longtitude": "112.756664",
+    "vehicleNum": 0,
+    "stationName": "济源五龙口逯村站",
+    "id": 2080,
+    "stationAddress": "河南省济源市五龙口镇逯村村委会"
+  },
+  {
+    "parkingNum": 1,
+    "freeVehicle": 0,
+    "latitude": "35.124267",
+    "longtitude": "112.692179",
+    "vehicleNum": 0,
+    "stationName": "济源五龙口镇西正村站",
+    "id": 2081,
+    "stationAddress": "河南省济源市五龙口镇西正村篮球场"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "35.138848",
+    "longtitude": "112.662222",
+    "vehicleNum": 0,
+    "stationName": "济源五龙口镇裴村站",
+    "id": 2082,
+    "stationAddress": "河南省济源市五龙口镇裴村戏台大院内"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.639089",
+    "longtitude": "106.375326",
+    "vehicleNum": 0,
+    "stationName": "土主公共停车场",
+    "id": 2083,
+    "stationAddress": "沙坪坝区土主镇土主公共停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.581052",
+    "longtitude": "106.241946",
+    "vehicleNum": 0,
+    "stationName": "宴百汇",
+    "id": 2103,
+    "stationAddress": "重庆市璧山区双星大道1号宴百汇大酒楼停车场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.62216",
+    "longtitude": "106.342066",
+    "vehicleNum": 0,
+    "stationName": "汇丰大厦",
+    "id": 2113,
+    "stationAddress": "沙坪坝区陈家桥街道沿河西路松茂汇丰大厦停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "31.468372",
+    "longtitude": "104.750928",
+    "vehicleNum": 0,
+    "stationName": "党校宾馆站",
+    "id": 2129,
+    "stationAddress": "四川省绵阳市涪城区临园路东段党校商务宾馆内停车场"
+  },
+  {
+    "parkingNum": 12,
+    "freeVehicle": 0,
+    "latitude": "31.458479",
+    "longtitude": "104.759533",
+    "vehicleNum": 0,
+    "stationName": "老年大学站",
+    "id": 2154,
+    "stationAddress": "四川省绵阳市涪城区南河路8-8（老年大学内停车场）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "34.759713",
+    "longtitude": "113.775675",
+    "vehicleNum": 0,
+    "stationName": "互联网金融大厦",
+    "id": 2161,
+    "stationAddress": "东风南路与榆林南路交叉口"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "34.770125",
+    "longtitude": "113.752615",
+    "vehicleNum": 0,
+    "stationName": "黄河南路地铁站",
+    "id": 2163,
+    "stationAddress": "河南省郑州市金水区黄河南路金水东路东北角（万鼎广场地上停车场）"
+  },
+  {
+    "parkingNum": 1,
+    "freeVehicle": 0,
+    "latitude": "35.150066",
+    "longtitude": "112.55353",
+    "vehicleNum": 0,
+    "stationName": "克井寨河苑小区站",
+    "id": 2180,
+    "stationAddress": "河南省济源市克井镇文化路与团结路交叉口向东200米路北寨河苑小区南门内"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.597648",
+    "longtitude": "106.467439",
+    "vehicleNum": 0,
+    "stationName": "国奥村",
+    "id": 2199,
+    "stationAddress": "江北区宏帆路国奥村2期地库入口旁"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.411695",
+    "longtitude": "104.094286",
+    "vehicleNum": 0,
+    "stationName": "兴隆湖科学城",
+    "id": 2200,
+    "stationAddress": "天府新区兴隆湖通州路南段"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.480158",
+    "longtitude": "104.743808",
+    "vehicleNum": 0,
+    "stationName": "天籁一品",
+    "id": 2209,
+    "stationAddress": "四川省绵阳市涪城区长虹大道中段42号（美年大健康体检旁停车场）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.617042",
+    "longtitude": "106.389402",
+    "vehicleNum": 0,
+    "stationName": "西永交通枢纽站",
+    "id": 2217,
+    "stationAddress": "沙坪坝区西永交通枢纽站内"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.690299",
+    "longtitude": "106.610004",
+    "vehicleNum": 0,
+    "stationName": "两江实验幼儿园恒运停车场",
+    "id": 2237,
+    "stationAddress": "渝北区回兴街道兴科一路九村烤脑花旁"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.411414",
+    "longtitude": "106.554246",
+    "vehicleNum": 0,
+    "stationName": "旭辉城",
+    "id": 2238,
+    "stationAddress": "巴南区渝南大道233号旭辉城一期广场停车场（巴渝小学旁）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.585776",
+    "longtitude": "106.572861",
+    "vehicleNum": 0,
+    "stationName": "五里店乔森驾校",
+    "id": 2239,
+    "stationAddress": "江北区渝鲁大道重庆市路桥收费管理处旁"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.489746",
+    "longtitude": "104.714412",
+    "vehicleNum": 0,
+    "stationName": "星汇馆",
+    "id": 2240,
+    "stationAddress": "四川省绵阳市科创园区剑南路338号星汇馆停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "34.769143",
+    "longtitude": "113.688035",
+    "vehicleNum": 0,
+    "stationName": "紫荆山站",
+    "id": 2241,
+    "stationAddress": "河南省郑州市金水区金水路人民路交叉口立交桥下（紫荆山百货麦当劳对面桥下）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "30.704295",
+    "longtitude": "103.852404",
+    "vehicleNum": 0,
+    "stationName": "温江人民商场",
+    "id": 2243,
+    "stationAddress": "温江区南熏大道临江路南段公园壹号"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.591441",
+    "longtitude": "106.564662",
+    "vehicleNum": 0,
+    "stationName": "江南花苑",
+    "id": 1476,
+    "stationAddress": "江北区五红路江南花苑西门对面国家电网旁"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.589431",
+    "longtitude": "106.486276",
+    "vehicleNum": 0,
+    "stationName": "盘溪茶叶市场",
+    "id": 1477,
+    "stationAddress": "江北区南桥寺盘溪三支路容缘茶叶经营部旁十字路口处"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.68833",
+    "longtitude": "106.613144",
+    "vehicleNum": 0,
+    "stationName": "银鑫世纪酒店",
+    "id": 1478,
+    "stationAddress": "渝北区回兴宝桐路莲花半岛旁银鑫世纪酒店露天停车场"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.468202",
+    "longtitude": "104.627325",
+    "vehicleNum": 0,
+    "stationName": "永兴雷克萨斯4S店站",
+    "id": 1481,
+    "stationAddress": "四川省绵阳市高新区永兴镇（雷克萨斯4S店对面停车位）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.498762",
+    "longtitude": "104.737703",
+    "vehicleNum": 0,
+    "stationName": "玉女路高水美食广场站",
+    "id": 1492,
+    "stationAddress": "四川省绵阳市涪城区玉女路美食广场停车场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.689247",
+    "longtitude": "104.160464",
+    "vehicleNum": 0,
+    "stationName": "理工东苑",
+    "id": 1519,
+    "stationAddress": "成华区理工大学东苑旁"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.57988",
+    "longtitude": "106.506286",
+    "vehicleNum": 0,
+    "stationName": "大石坝博邦驾校",
+    "id": 1520,
+    "stationAddress": "江北区红石路大庆村立交旁博邦驾校训练场内"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.613513",
+    "longtitude": "106.513405",
+    "vehicleNum": 0,
+    "stationName": "重庆金融中心",
+    "id": 1521,
+    "stationAddress": "重庆市两江新区星光大道11号重庆金融中心停车场内"
+  },
+  {
+    "parkingNum": 4,
+    "freeVehicle": 0,
+    "latitude": "31.495266",
+    "longtitude": "104.764408",
+    "vehicleNum": 0,
+    "stationName": "汉庭科学城酒店站",
+    "id": 1525,
+    "stationAddress": "四川省绵阳市游仙区绵山路64号汉庭酒店停车位"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.51627",
+    "longtitude": "104.659742",
+    "vehicleNum": 0,
+    "stationName": "金家林软件园站",
+    "id": 1532,
+    "stationAddress": "四川省绵阳市科创园区裕都大道绵阳科技城软件产业园停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.838529",
+    "longtitude": "106.44734",
+    "vehicleNum": 0,
+    "stationName": "北碚正码头",
+    "id": 1546,
+    "stationAddress": "北碚区朝阳滨江路文星湾隧道公交站旁"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.837789",
+    "longtitude": "106.456808",
+    "vehicleNum": 0,
+    "stationName": "北碚公运驾校关闭",
+    "id": 1548,
+    "stationAddress": "北碚区政府东阳街道办事处南"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.566273",
+    "longtitude": "104.847763",
+    "vehicleNum": 0,
+    "stationName": "绵阳国际兰花主题公园站",
+    "id": 1822,
+    "stationAddress": "四川省绵阳市游仙区街子镇国际兰花主题公园大门左侧停车场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.688346",
+    "longtitude": "104.078382",
+    "vehicleNum": 1,
+    "stationName": "西藏饭店",
+    "id": 1847,
+    "stationAddress": "金牛区人民北路10号西藏饭店地面停车场（请联系保安放行）"
+  },
+  {
+    "parkingNum": 0,
+    "freeVehicle": 0,
+    "latitude": "35.162981",
+    "longtitude": "112.712534",
+    "vehicleNum": 0,
+    "stationName": "济源五龙口镇贺坡站",
+    "id": 2045,
+    "stationAddress": "河南省济源市五龙口镇贺坡村306省道路北（诚信轿车维修附近）"
+  },
+  {
+    "parkingNum": 4,
+    "freeVehicle": 0,
+    "latitude": "35.055142",
+    "longtitude": "112.57049",
+    "vehicleNum": 0,
+    "stationName": "济源轵城镇西留养站",
+    "id": 2055,
+    "stationAddress": "河南省济源市轵城镇东西留养交叉口西南角（轵城镇第三初级中学斜对面）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.569466",
+    "longtitude": "106.543094",
+    "vehicleNum": 0,
+    "stationName": "华新街洲鹏驾校",
+    "id": 2058,
+    "stationAddress": "重庆市江北区华新街轻轨站1号出口向前30米（跳蚤市场门口）"
+  },
+  {
+    "parkingNum": 2,
+    "freeVehicle": 0,
+    "latitude": "35.093402",
+    "longtitude": "112.600588",
+    "vehicleNum": 0,
+    "stationName": "济源鸿运楼站",
+    "id": 2076,
+    "stationAddress": "河南省济源市济水大街与文昌路交叉口"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.50849",
+    "longtitude": "106.455962",
+    "vehicleNum": 0,
+    "stationName": "创业路",
+    "id": 2086,
+    "stationAddress": "九龙坡区创业大道97号华伟冻库室外停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.644822",
+    "longtitude": "106.589715",
+    "vehicleNum": 0,
+    "stationName": "重盐集团",
+    "id": 2087,
+    "stationAddress": "渝北区金石大道458号重盐集团大楼室外停车场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.571491",
+    "longtitude": "106.499335",
+    "vehicleNum": 0,
+    "stationName": "润明驾校",
+    "id": 2104,
+    "stationAddress": "江北区大石坝润明驾校训练场内，印象五村江湖菜旁"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.735924",
+    "longtitude": "106.472792",
+    "vehicleNum": 0,
+    "stationName": "二工厂维修中心",
+    "id": 2105,
+    "stationAddress": "力帆二工厂维修中心"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.554565",
+    "longtitude": "104.097736",
+    "vehicleNum": 0,
+    "stationName": "中和镇和美路",
+    "id": 2111,
+    "stationAddress": "双流区中和和美路香木林领馆尚城（红旗超市门口）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "30.266057",
+    "longtitude": "120.209576",
+    "vehicleNum": 0,
+    "stationName": "欧亚达家居站秋涛店",
+    "id": 2127,
+    "stationAddress": "江干区秋涛北路72号欧亚达家居地面停车场东北角(近杭州大厦501/庆春银泰)"
+  },
+  {
+    "parkingNum": 2,
+    "freeVehicle": 0,
+    "latitude": "29.673759",
+    "longtitude": "106.722791",
+    "vehicleNum": 0,
+    "stationName": "玉峰山望炉台",
+    "id": 2130,
+    "stationAddress": "重庆市渝北区玉峰山芳菲路望炉台停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.438523",
+    "longtitude": "106.474863",
+    "vehicleNum": 0,
+    "stationName": "半岛逸景",
+    "id": 2138,
+    "stationAddress": "大渡口区半岛逸景一组团招商中心前方室外车位"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "31.463737",
+    "longtitude": "104.762876",
+    "vehicleNum": 0,
+    "stationName": "涪城区市委站",
+    "id": 2142,
+    "stationAddress": "四川省绵阳市涪城区红星街街委附近（马家巷斜对面老市委内部停车场）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.597471",
+    "longtitude": "106.473295",
+    "vehicleNum": 0,
+    "stationName": "海悦香缇",
+    "id": 2149,
+    "stationAddress": "江北区宏帆路91号海悦香缇小区入口处"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "34.675798",
+    "longtitude": "113.654813",
+    "vehicleNum": 0,
+    "stationName": "二七绿地中心站",
+    "id": 2171,
+    "stationAddress": "大学南路南四环北200米"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.762966",
+    "longtitude": "113.947084",
+    "vehicleNum": 0,
+    "stationName": "名门紫园站",
+    "id": 2172,
+    "stationAddress": "人文路九州路东北角"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.837155",
+    "longtitude": "113.653103",
+    "vehicleNum": 0,
+    "stationName": "名门翠园站",
+    "id": 2174,
+    "stationAddress": "三全路丰庆路西北角( 东西向三全路辅路进)"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.805674",
+    "longtitude": "106.396136",
+    "vehicleNum": 0,
+    "stationName": "北碚大学科技园",
+    "id": 1488,
+    "stationAddress": "北碚区安礼路大学科技园区室外停车场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.489577",
+    "longtitude": "104.77818",
+    "vehicleNum": 0,
+    "stationName": "堂宏国际站",
+    "id": 1491,
+    "stationAddress": "四川省绵阳市游仙区一环路东段235号堂宏国际停车场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.500822",
+    "longtitude": "104.744083",
+    "vehicleNum": 0,
+    "stationName": "中央广场停车场站",
+    "id": 1493,
+    "stationAddress": "四川省绵阳市涪城区高水中街中央广场地面停车场农业银行门口"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.780331",
+    "longtitude": "104.067512",
+    "vehicleNum": 0,
+    "stationName": "石犀购物中心",
+    "id": 1515,
+    "stationAddress": "新都区桂蕊街85号附近"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.520497",
+    "longtitude": "106.586321",
+    "vehicleNum": 0,
+    "stationName": "嘉恩牧羊美食广场",
+    "id": 1536,
+    "stationAddress": "重庆市南岸区四公里广黔路138号嘉恩牧羊美食广场内"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.496698",
+    "longtitude": "106.471184",
+    "vehicleNum": 0,
+    "stationName": "公园尚城",
+    "id": 2057,
+    "stationAddress": "重庆市大渡口区双城路公园尚城兄弟装饰创意工场旁露天停车场"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.48226",
+    "longtitude": "104.763953",
+    "vehicleNum": 0,
+    "stationName": "中一超市站",
+    "id": 1540,
+    "stationAddress": "四川省绵阳市游仙区涪江街道绵山路中一超市停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.50489",
+    "longtitude": "106.500033",
+    "vehicleNum": 0,
+    "stationName": "康福德高驾校",
+    "id": 1541,
+    "stationAddress": "九龙坡九龙园区火炬大道临2号大件路加油站斜对面"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.850748",
+    "longtitude": "106.458982",
+    "vehicleNum": 0,
+    "stationName": "北碚天府丽正",
+    "id": 1547,
+    "stationAddress": "北碚区东阳镇天府丽正小区旁"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "34.733515",
+    "longtitude": "113.778362",
+    "vehicleNum": 0,
+    "stationName": "财富天阶站",
+    "id": 1557,
+    "stationAddress": "河南省郑州市管城回族区九大街经北二路（财富天阶3号楼下）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.604627",
+    "longtitude": "106.395556",
+    "vehicleNum": 0,
+    "stationName": "中欧智慧光都",
+    "id": 1820,
+    "stationAddress": "沙坪坝区西科二路中欧智慧光都后门停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.588524",
+    "longtitude": "106.500397",
+    "vehicleNum": 0,
+    "stationName": "SM广场",
+    "id": 1825,
+    "stationAddress": "渝北区松石大道148号SM广场地下停车库入口右侧（B1层A区）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.590581",
+    "longtitude": "106.384116",
+    "vehicleNum": 0,
+    "stationName": "西永老街",
+    "id": 2060,
+    "stationAddress": "沙坪坝区西永街道赖白路西永医院旁露天停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.705209",
+    "longtitude": "106.612219",
+    "vehicleNum": 0,
+    "stationName": "重庆济诊医院",
+    "id": 2071,
+    "stationAddress": "重庆市渝北区兰馨大道6号-17幢-2号重庆济诊医院大楼楼后停车场"
+  },
+  {
+    "parkingNum": 1,
+    "freeVehicle": 0,
+    "latitude": "35.139666",
+    "longtitude": "112.7302",
+    "vehicleNum": 0,
+    "stationName": "济源五龙口镇留村站",
+    "id": 2077,
+    "stationAddress": "河南省济源市五龙口镇留村村委会"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.563953",
+    "longtitude": "106.478544",
+    "vehicleNum": 0,
+    "stationName": "昆仑驾校",
+    "id": 2085,
+    "stationAddress": "沙坪坝区上岛郦舍大门对面,昆仑驾校训练场内"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "35.163442",
+    "longtitude": "112.558291",
+    "vehicleNum": 0,
+    "stationName": "济源克井镇马寺街站",
+    "id": 2099,
+    "stationAddress": "河南省济源市克井镇玉川大道与郭木线交叉口往北200米路西（中国邮政（克井邮政支局）对面）"
+  },
+  {
+    "parkingNum": 7,
+    "freeVehicle": 0,
+    "latitude": "30.698737",
+    "longtitude": "104.052263",
+    "vehicleNum": 0,
+    "stationName": "凯德沙湾",
+    "id": 2120,
+    "stationAddress": "金牛区金沙横街2号凯德沙湾店停车场入口处"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.696823",
+    "longtitude": "104.079239",
+    "vehicleNum": 0,
+    "stationName": "铁道大酒店",
+    "id": 2122,
+    "stationAddress": "金牛区人民北路二段9号"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.172401",
+    "longtitude": "120.084236",
+    "vehicleNum": 0,
+    "stationName": "浙江工业大学之江学院站",
+    "id": 2134,
+    "stationAddress": "西湖区之江路182号（浙江工业大学之江学院西门左边）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.630919",
+    "longtitude": "106.35785",
+    "vehicleNum": 0,
+    "stationName": "重庆万达文化旅游城",
+    "id": 2141,
+    "stationAddress": "重庆市沙坪坝区西永街道重庆万达文化旅游城"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "31.473318",
+    "longtitude": "104.756198",
+    "vehicleNum": 0,
+    "stationName": "金桥商场",
+    "id": 2150,
+    "stationAddress": "四川省绵阳市涪城区剑南路西段市人民医院公交站东50米金桥商场内停车场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "31.467919",
+    "longtitude": "104.701536",
+    "vehicleNum": 0,
+    "stationName": "中沅广场",
+    "id": 2169,
+    "stationAddress": "四川省绵阳市高新区虹苑路（中沅广场小郡肝串串旁停车场）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.716985",
+    "longtitude": "113.651003",
+    "vehicleNum": 0,
+    "stationName": "名门橙邦站",
+    "id": 2173,
+    "stationAddress": "大学路长江中路"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "34.730147",
+    "longtitude": "113.773906",
+    "vehicleNum": 0,
+    "stationName": "汉威修车",
+    "id": 2175,
+    "stationAddress": "郑州汉威光电"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.43101",
+    "longtitude": "104.088716",
+    "vehicleNum": 0,
+    "stationName": "秦皇永安酒店",
+    "id": 2178,
+    "stationAddress": "成都市双流区正兴镇秦皇永安酒店"
+  },
+  {
+    "parkingNum": 0,
+    "freeVehicle": 0,
+    "latitude": "35.07089",
+    "longtitude": "112.628857",
+    "vehicleNum": 0,
+    "stationName": "豪生酒店站",
+    "id": 2182,
+    "stationAddress": "河南省济源市黄河大道与东环路交叉口西北角"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.530491",
+    "longtitude": "104.072664",
+    "vehicleNum": 0,
+    "stationName": "会龙公园",
+    "id": 2184,
+    "stationAddress": "双流区华阳华府大道三利云锦西南50米"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.475599",
+    "longtitude": "104.015037",
+    "vehicleNum": 0,
+    "stationName": "电子科技大学科技园",
+    "id": 2188,
+    "stationAddress": "双流区电子科技大学科技园内优越国际旁"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.605436",
+    "longtitude": "106.24677",
+    "vehicleNum": 0,
+    "stationName": "璧山高科服务站",
+    "id": 2194,
+    "stationAddress": "重庆璧山璧青路高科售后服务站"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.591657",
+    "longtitude": "106.54953",
+    "vehicleNum": 0,
+    "stationName": "重百小区",
+    "id": 2198,
+    "stationAddress": "重庆市江北区洋河北路79号重百小区北门"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "34.794911",
+    "longtitude": "113.711809",
+    "vehicleNum": 0,
+    "stationName": "非常国际二期站",
+    "id": 2212,
+    "stationAddress": "河南省郑州市金水区中州大道林科路交叉口西50米路北(非常国际二期南门口)"
+  },
+  {
+    "parkingNum": 13,
+    "freeVehicle": 0,
+    "latitude": "34.786945",
+    "longtitude": "113.745344",
+    "vehicleNum": 0,
+    "stationName": "宝龙广场站",
+    "id": 2215,
+    "stationAddress": "河南省郑州市金水区九如路与农业东路交叉口南50米"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.577358",
+    "longtitude": "106.684743",
+    "vehicleNum": 0,
+    "stationName": "望江",
+    "id": 2216,
+    "stationAddress": "江北区郭家沱街道817公交站起点站（福瑞熙驾校）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.518327",
+    "longtitude": "106.555055",
+    "vehicleNum": 0,
+    "stationName": "丹龙路停车场",
+    "id": 1479,
+    "stationAddress": "重庆市南岸区丹龙路志龙新起点骏逸天下公交站旁"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.533385",
+    "longtitude": "106.576914",
+    "vehicleNum": 0,
+    "stationName": "南坪汽车站",
+    "id": 1480,
+    "stationAddress": "重庆市南岸区江南大道15号(轻轨3号线南坪站3号出口旁)"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.456601",
+    "longtitude": "104.767188",
+    "vehicleNum": 0,
+    "stationName": "城南名著站出口进",
+    "id": 1494,
+    "stationAddress": "四川省绵阳市涪城区城南名著停车场请从出口进"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.490495",
+    "longtitude": "104.745473",
+    "vehicleNum": 0,
+    "stationName": "未来城站",
+    "id": 1495,
+    "stationAddress": "四川省绵阳市涪城区未来城四维酒店门口停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "30.304751",
+    "longtitude": "120.126116",
+    "vehicleNum": 0,
+    "stationName": "登云路金象影城站",
+    "id": 1500,
+    "stationAddress": "登云路615号凯亿停车场内（金象影城对面）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.594067",
+    "longtitude": "104.030977",
+    "vehicleNum": 0,
+    "stationName": "红璞公寓",
+    "id": 1531,
+    "stationAddress": "武侯区机场高速中段西侧（新和领航大厦楼下）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.558577",
+    "longtitude": "106.484743",
+    "vehicleNum": 0,
+    "stationName": "重棉二厂",
+    "id": 1543,
+    "stationAddress": "沙坪坝区土湾下土湾路保利康桥西门旁"
+  },
+  {
+    "parkingNum": 25,
+    "freeVehicle": 0,
+    "latitude": "29.634663",
+    "longtitude": "106.485441",
+    "vehicleNum": 0,
+    "stationName": "大竹林轻轨站",
+    "id": 1545,
+    "stationAddress": "渝北区恒山东路与恒山西路交叉口东南附近"
+  },
+  {
+    "parkingNum": 22,
+    "freeVehicle": 0,
+    "latitude": "29.467839",
+    "longtitude": "106.56693",
+    "vehicleNum": 0,
+    "stationName": "典雅戴斯酒店",
+    "id": 1554,
+    "stationAddress": "重庆市巴南区渝南大道70号典雅戴斯酒店"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.507892",
+    "longtitude": "106.477059",
+    "vehicleNum": 0,
+    "stationName": "红喜壹号酒店",
+    "id": 1844,
+    "stationAddress": "重庆市九龙坡区红狮西路一号（红喜壹号酒店、喜悦主题婚礼酒店内）"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "35.081104",
+    "longtitude": "112.721662",
+    "vehicleNum": 0,
+    "stationName": "济源梨林镇站",
+    "id": 1851,
+    "stationAddress": "河南省济源市梨林镇梨林村村民委员会门口（梨林镇梨林村卫生室附近）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.350239",
+    "longtitude": "104.724115",
+    "vehicleNum": 0,
+    "stationName": "原香国际香草园站",
+    "id": 2026,
+    "stationAddress": "四川省绵阳市涪城区杨家镇原香国际香草园对面停车场"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "31.428195",
+    "longtitude": "104.782086",
+    "vehicleNum": 0,
+    "stationName": "神州南都站非收费停车场",
+    "id": 2028,
+    "stationAddress": "四川省绵阳市经开区城南街道机场东路神州南都绵阳商业银行门口停车场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.478864",
+    "longtitude": "106.484794",
+    "vehicleNum": 0,
+    "stationName": "科力大厦",
+    "id": 2039,
+    "stationAddress": "大渡口区春晖路93号科力大厦室外停车场"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "35.160866",
+    "longtitude": "112.731599",
+    "vehicleNum": 0,
+    "stationName": "济源五龙口镇尚庄站",
+    "id": 2040,
+    "stationAddress": "河南省济源市五龙口镇尚庄村25路公交车大院内东南角"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.066059",
+    "longtitude": "112.599371",
+    "vehicleNum": 0,
+    "stationName": "济源屯军站",
+    "id": 2048,
+    "stationAddress": "河南省济源市南环路与文昌路交叉口向北50米路东"
+  },
+  {
+    "parkingNum": 2,
+    "freeVehicle": 0,
+    "latitude": "35.148325",
+    "longtitude": "112.766783",
+    "vehicleNum": 0,
+    "stationName": "济源五龙口镇马村站",
+    "id": 2070,
+    "stationAddress": "河南省济源市五龙口镇马村村委会"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.602613",
+    "longtitude": "106.449122",
+    "vehicleNum": 0,
+    "stationName": "石井坡中心路",
+    "id": 2097,
+    "stationAddress": "沙坪坝区石井坡街道中心湾中心路旁停车场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.755037",
+    "longtitude": "106.654547",
+    "vehicleNum": 0,
+    "stationName": "重庆尚高酒店",
+    "id": 2098,
+    "stationAddress": "渝北区空港工业园区科勒路315号（空港海宁皮革城内）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.753084",
+    "longtitude": "103.98804",
+    "vehicleNum": 0,
+    "stationName": "蓝光幸福满庭",
+    "id": 2106,
+    "stationAddress": "郫县犀浦镇蓝光幸福满庭一期"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.614485",
+    "longtitude": "104.086529",
+    "vehicleNum": 0,
+    "stationName": "中环火车南站东路",
+    "id": 2110,
+    "stationAddress": "武侯区火车南站东路与高攀路交叉口停天下停车场内"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.338161",
+    "longtitude": "106.621067",
+    "vehicleNum": 0,
+    "stationName": "重庆华南城招商中心",
+    "id": 2116,
+    "stationAddress": "巴南区东城大道8号重庆华南城招商中心门前广场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.491683",
+    "longtitude": "106.47021",
+    "vehicleNum": 0,
+    "stationName": "绿威林畔高尔夫",
+    "id": 2126,
+    "stationAddress": "大渡口区双山路西段林畔高尔夫停车场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.455775",
+    "longtitude": "106.487363",
+    "vehicleNum": 0,
+    "stationName": "重庆单轨集团",
+    "id": 2133,
+    "stationAddress": "大渡口区建桥大道36号重庆单轨集团停车场"
+  },
+  {
+    "parkingNum": 19,
+    "freeVehicle": 0,
+    "latitude": "29.375685",
+    "longtitude": "106.529853",
+    "vehicleNum": 0,
+    "stationName": "金竹农贸市场",
+    "id": 2137,
+    "stationAddress": "巴南区金竹街金竹农贸市场停车场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.685825",
+    "longtitude": "104.091174",
+    "vehicleNum": 0,
+    "stationName": "恒德路十号院",
+    "id": 2147,
+    "stationAddress": "金牛区恒德路与簸箕巷交叉口东北50米恒德路10号院内"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.683869",
+    "longtitude": "104.066116",
+    "vehicleNum": 0,
+    "stationName": "通锦桥",
+    "id": 2148,
+    "stationAddress": "青羊区庆宪街与通锦桥路交叉口敦煌大酒店背后"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.631085",
+    "longtitude": "104.038789",
+    "vehicleNum": 0,
+    "stationName": "丽都花园",
+    "id": 2165,
+    "stationAddress": "武侯区丽都路16号建设银行丽都支行旁"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.695437",
+    "longtitude": "113.611169",
+    "vehicleNum": 0,
+    "stationName": "郑州绿地城站",
+    "id": 2170,
+    "stationAddress": "河南省郑州市二七区郑密路南四环北1000米（绿地城售楼部前）"
+  },
+  {
+    "parkingNum": 1,
+    "freeVehicle": 0,
+    "latitude": "35.083515",
+    "longtitude": "112.507505",
+    "vehicleNum": 0,
+    "stationName": "济源承留汽车站",
+    "id": 2177,
+    "stationAddress": "河南省济源市黄河大道张苏线与曲阳路交叉口向西150米路北（承留汽车站对面）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.512595",
+    "longtitude": "106.499486",
+    "vehicleNum": 0,
+    "stationName": "盘龙金茂悦",
+    "id": 2187,
+    "stationAddress": "九龙坡区盘龙正街金茂悦商场露天停车场内皇庭珠宝城旁"
+  },
+  {
+    "parkingNum": 0,
+    "freeVehicle": 0,
+    "latitude": "35.086089",
+    "longtitude": "112.47641",
+    "vehicleNum": 0,
+    "stationName": "中原特钢东张站",
+    "id": 2193,
+    "stationAddress": "河南省济源市承留镇东张村石曲线与张苏线交叉口向西2000米路北（东张桥西250米）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.405663",
+    "longtitude": "104.077816",
+    "vehicleNum": 0,
+    "stationName": "兴隆湖",
+    "id": 2203,
+    "stationAddress": "双流区天府大道南二段西侧"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "34.775472",
+    "longtitude": "113.732552",
+    "vehicleNum": 0,
+    "stationName": "千玺广场站",
+    "id": 2210,
+    "stationAddress": "河南省郑州市金水区千玺广场地上停车场（千玺壹座-P1地面停车场）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.632678",
+    "longtitude": "104.121146",
+    "vehicleNum": 0,
+    "stationName": "望江宾馆",
+    "id": 2211,
+    "stationAddress": "锦江区上沙河铺街望江宾馆会议楼外地面停车场"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.621775",
+    "longtitude": "106.48924",
+    "vehicleNum": 0,
+    "stationName": "电力科学研究院",
+    "id": 2218,
+    "stationAddress": "渝北区黄山大道中段电力科学研究院内"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.464099",
+    "longtitude": "104.72451",
+    "vehicleNum": 0,
+    "stationName": "绵阳火车站站前广场站",
+    "id": 1475,
+    "stationAddress": "四川省绵阳市涪城区绵阳火车站站前广场停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.515373",
+    "longtitude": "106.557507",
+    "vehicleNum": 0,
+    "stationName": "伯特利修理厂",
+    "id": 1487,
+    "stationAddress": "南岸区丹回路旁重庆伯特利汽车维修有限公司"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.996247",
+    "longtitude": "103.643503",
+    "vehicleNum": 0,
+    "stationName": "百伦广场",
+    "id": 1498,
+    "stationAddress": "都江堰市幸福镇都江堰大道百伦广场（KFC门口）"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "31.47031",
+    "longtitude": "104.680543",
+    "vehicleNum": 0,
+    "stationName": "高新区公安分局路口站",
+    "id": 1509,
+    "stationAddress": "四川省绵阳市高新区虹苑北路高新区公安分局附近路边停车位"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "30.815046",
+    "longtitude": "104.189431",
+    "vehicleNum": 0,
+    "stationName": "四川音乐学院新都校区",
+    "id": 1516,
+    "stationAddress": "新都区四川音乐学院北面马超东路维也纳商业广场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "30.786265",
+    "longtitude": "104.15278",
+    "vehicleNum": 0,
+    "stationName": "海峡茶城",
+    "id": 1518,
+    "stationAddress": "新都区惠民一路三合嘉苑旁（莱茵北郡门对面）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.525607",
+    "longtitude": "106.486595",
+    "vehicleNum": 0,
+    "stationName": "秋玉景苑",
+    "id": 1534,
+    "stationAddress": "重庆市九龙坡区白鹤村48号红路灯十字路口旁秋玉景苑露天停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.610962",
+    "longtitude": "106.496925",
+    "vehicleNum": 0,
+    "stationName": "石子山体育公园",
+    "id": 1538,
+    "stationAddress": "江北区石子山体育公园北门2号岗室外停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.812687",
+    "longtitude": "106.438688",
+    "vehicleNum": 0,
+    "stationName": "北碚龙凤桥",
+    "id": 1549,
+    "stationAddress": "北碚区龙凤桥街道龙凤路煤安厂公交站旁"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.604517",
+    "longtitude": "106.54317",
+    "vehicleNum": 0,
+    "stationName": "莫氏烤羊庄已关闭",
+    "id": 1551,
+    "stationAddress": "渝北区黄龙支路重庆市公安局东门斜对面莫氏烤羊庄内"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "35.161696",
+    "longtitude": "112.723281",
+    "vehicleNum": 0,
+    "stationName": "济源五龙口镇沁北电厂站",
+    "id": 1823,
+    "stationAddress": "河南省济源市华能沁北电厂大门口"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "31.432516",
+    "longtitude": "104.787073",
+    "vehicleNum": 0,
+    "stationName": "博雅海润广场河堤站",
+    "id": 1836,
+    "stationAddress": "四川省绵阳市经开区博雅海润广场东门停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.641185",
+    "longtitude": "106.575397",
+    "vehicleNum": 0,
+    "stationName": "金渝轻轨站",
+    "id": 1930,
+    "stationAddress": "重庆市渝北区金渝轻轨站旁龙池汽车服务正对面"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "35.11593",
+    "longtitude": "112.627052",
+    "vehicleNum": 0,
+    "stationName": "济源联洋建材城站",
+    "id": 2050,
+    "stationAddress": "河南省济源市愚公路与北环路交叉口向东150米路北"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.282751",
+    "longtitude": "119.99854",
+    "vehicleNum": 0,
+    "stationName": "利尔达物联网科技园站",
+    "id": 2061,
+    "stationAddress": "文一西路1326号利尔达物联网科技园2、5#楼之间"
+  },
+  {
+    "parkingNum": 30,
+    "freeVehicle": 0,
+    "latitude": "29.647113",
+    "longtitude": "106.451098",
+    "vehicleNum": 0,
+    "stationName": "美丽阳光家园",
+    "id": 2063,
+    "stationAddress": "沙坪坝区井口美丽阳光家园室外停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.50238",
+    "longtitude": "106.496418",
+    "vehicleNum": 0,
+    "stationName": "九龙坡区驾校",
+    "id": 2072,
+    "stationAddress": "九龙坡区马王场轻轨站旁150米九龙坡区驾校内"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "35.093923",
+    "longtitude": "112.634355",
+    "vehicleNum": 0,
+    "stationName": "济源长途汽车站",
+    "id": 2075,
+    "stationAddress": "河南省济源市济水大街与东环路交叉口向南100米路东"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.500602",
+    "longtitude": "106.460301",
+    "vehicleNum": 0,
+    "stationName": "欣茂苑",
+    "id": 2084,
+    "stationAddress": "九龙坡区高新区二郎科技城广播电视大学旁"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.394919",
+    "longtitude": "106.507813",
+    "vehicleNum": 0,
+    "stationName": "玉波池",
+    "id": 2088,
+    "stationAddress": "巴南区大江南大道玉波池公交站旁"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.179663",
+    "longtitude": "120.167385",
+    "vehicleNum": 0,
+    "stationName": "浙江商业职业技术学院站",
+    "id": 2101,
+    "stationAddress": "滨文路472号"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "30.600463",
+    "longtitude": "103.897706",
+    "vehicleNum": 0,
+    "stationName": "银河596",
+    "id": 2109,
+    "stationAddress": "双流区双楠大道四川省志翔职业技术学校旁"
+  },
+  {
+    "parkingNum": 13,
+    "freeVehicle": 0,
+    "latitude": "29.567874",
+    "longtitude": "106.50548",
+    "vehicleNum": 0,
+    "stationName": "华润中央公园",
+    "id": 2117,
+    "stationAddress": "江北区大石坝街333号华润中央公园小区东1号门前室外停车场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.583047",
+    "longtitude": "106.593493",
+    "vehicleNum": 0,
+    "stationName": "长嘉汇购物公园",
+    "id": 2128,
+    "stationAddress": "南岸区南滨路长嘉汇购物公园内"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.527559",
+    "longtitude": "106.530833",
+    "vehicleNum": 0,
+    "stationName": "黄家码头",
+    "id": 2159,
+    "stationAddress": "九龙坡区黄杨路泰索汽修停车场内"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "34.762751",
+    "longtitude": "113.754727",
+    "vehicleNum": 0,
+    "stationName": "河南省旅游服务中心站",
+    "id": 2162,
+    "stationAddress": "万安街与商鼎路交叉口北50米路东"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.619569",
+    "longtitude": "106.525262",
+    "vehicleNum": 0,
+    "stationName": "海洲国际",
+    "id": 2190,
+    "stationAddress": "渝北区新牌坊云杉北路81号海洲国际小区露天停车场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.501609",
+    "longtitude": "106.508823",
+    "vehicleNum": 0,
+    "stationName": "西郊路大件厂",
+    "id": 2191,
+    "stationAddress": "九龙坡区西郊路70号重庆公路运输(集团)有限公司大件分公司露天停车场"
+  },
+  {
+    "parkingNum": 100,
+    "freeVehicle": 0,
+    "latitude": "29.628478",
+    "longtitude": "106.499113",
+    "vehicleNum": 0,
+    "stationName": "BMS虚拟库",
+    "id": 2196,
+    "stationAddress": "重庆市两江新区互联网产业园区内"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.499437",
+    "longtitude": "106.491396",
+    "vehicleNum": 0,
+    "stationName": "九龙坡区中医院",
+    "id": 2197,
+    "stationAddress": "九龙坡区马王乡九龙坡区中医院对面商社物流公司内"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.622757",
+    "longtitude": "106.509111",
+    "vehicleNum": 0,
+    "stationName": "星汇两江",
+    "id": 2220,
+    "stationAddress": "重庆市两江新区星汇两江艺术商业中心1区广场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.551433",
+    "longtitude": "106.490889",
+    "vehicleNum": 0,
+    "stationName": "同创高原",
+    "id": 2221,
+    "stationAddress": "重庆市九龙坡区高九路经纬大道1098号同创高原商业广场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.571087",
+    "longtitude": "106.439371",
+    "vehicleNum": 0,
+    "stationName": "四川外国语大学后山",
+    "id": 2222,
+    "stationAddress": "沙坪坝区壮志路四川外国语大学新校区后门旁翰阳驾校内"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "35.082186",
+    "longtitude": "112.503611",
+    "vehicleNum": 0,
+    "stationName": "济源承留镇站",
+    "id": 1512,
+    "stationAddress": "河南省济源市承留镇黄河大道与平安路交叉口往南200米路东（滨湖花园社区B2区附近）"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.452354",
+    "longtitude": "104.654736",
+    "vehicleNum": 0,
+    "stationName": "成来假日酒店站",
+    "id": 1526,
+    "stationAddress": "四川省绵阳市高新区新皂镇8号路华钢钢材城成来假日酒店附近道路两旁路边停车位"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.781567",
+    "longtitude": "106.664015",
+    "vehicleNum": 0,
+    "stationName": "千威先生的洋房",
+    "id": 1527,
+    "stationAddress": "渝北区观月大道千威先生的洋房销售中心门前"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.510089",
+    "longtitude": "106.577795",
+    "vehicleNum": 0,
+    "stationName": "兰花湖公园",
+    "id": 1550,
+    "stationAddress": "重庆市南岸区回龙路"
+  },
+  {
+    "parkingNum": 21,
+    "freeVehicle": 0,
+    "latitude": "29.645744",
+    "longtitude": "106.549885",
+    "vehicleNum": 0,
+    "stationName": "永固金鼎",
+    "id": 1556,
+    "stationAddress": "渝北区金开大道永固金鼎大厦西侧露天停车场"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "35.079361",
+    "longtitude": "112.562855",
+    "vehicleNum": 0,
+    "stationName": "济源花好月圆站",
+    "id": 2049,
+    "stationAddress": "河南省济源市黄河大道与虎岭一号线交叉口向北100米路东"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.509468",
+    "longtitude": "106.570052",
+    "vehicleNum": 0,
+    "stationName": "融侨苹果城",
+    "id": 2059,
+    "stationAddress": "重庆市南岸区兰花路苹果城西侧50米"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.19699",
+    "longtitude": "120.183973",
+    "vehicleNum": 0,
+    "stationName": "滨江儿保站",
+    "id": 2064,
+    "stationAddress": "滨盛路3191号仁苑47号商铺门口"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "35.154748",
+    "longtitude": "112.559387",
+    "vehicleNum": 0,
+    "stationName": "济源克井镇佃头站",
+    "id": 2102,
+    "stationAddress": "河南省济源市克井镇佃头村民委员会（佃头娱乐中心对面）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.81249",
+    "longtitude": "106.438926",
+    "vehicleNum": 0,
+    "stationName": "戴斯汽修处理厂",
+    "id": 2118,
+    "stationAddress": "重庆市北碚区北金路与龙凤路交叉口南100米"
+  },
+  {
+    "parkingNum": 7,
+    "freeVehicle": 0,
+    "latitude": "30.609513",
+    "longtitude": "104.075916",
+    "vehicleNum": 0,
+    "stationName": "凯德天府",
+    "id": 2119,
+    "stationAddress": "武侯区凯德天府天和西三街绿茶餐厅外"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.735477",
+    "longtitude": "106.640425",
+    "vehicleNum": 0,
+    "stationName": "双凤桥汽车站",
+    "id": 2123,
+    "stationAddress": "重庆市渝北区双凤桥汽车站内（双凤桥轻轨站背后）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.619122",
+    "longtitude": "106.554938",
+    "vehicleNum": 0,
+    "stationName": "重庆北站北广场汽车站地面停车场",
+    "id": 2124,
+    "stationAddress": "重庆北站北广场汽车站售票大厅右侧"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.544163",
+    "longtitude": "106.559128",
+    "vehicleNum": 0,
+    "stationName": "天邻水岸",
+    "id": 2125,
+    "stationAddress": "重庆市南岸区铜元局轻轨站南200米（下扶梯后 向右100米）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.420804",
+    "longtitude": "106.544949",
+    "vehicleNum": 0,
+    "stationName": "巴文化电影公园",
+    "id": 2136,
+    "stationAddress": "重庆市巴南区龙洲大道巴文化电影公园右侧停车场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.702347",
+    "longtitude": "104.172524",
+    "vehicleNum": 0,
+    "stationName": "香木林花园里",
+    "id": 2146,
+    "stationAddress": "成华区龙潭工业园成康路1号香木林花园里南门"
+  },
+  {
+    "parkingNum": 30,
+    "freeVehicle": 0,
+    "latitude": "30.618495",
+    "longtitude": "104.038344",
+    "vehicleNum": 0,
+    "stationName": "到站换电",
+    "id": 2155,
+    "stationAddress": "武侯区科园南二路蚂蚁物流内"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.663474",
+    "longtitude": "104.075965",
+    "vehicleNum": 0,
+    "stationName": "明宇丽雅酒店",
+    "id": 2160,
+    "stationAddress": "锦江区人民东路明宇丽雅酒店地面停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "34.536203",
+    "longtitude": "113.852218",
+    "vehicleNum": 0,
+    "stationName": "新郑机场凯芙国际饭店站",
+    "id": 2164,
+    "stationAddress": "新郑机场迎宾大道1号（东边停车场）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.609816",
+    "longtitude": "104.07614",
+    "vehicleNum": 1,
+    "stationName": "火车南站",
+    "id": 2167,
+    "stationAddress": "武侯区天和西三街长城南苑艺家城市酒店"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.493225",
+    "longtitude": "104.073266",
+    "vehicleNum": 0,
+    "stationName": "华阳客运中心",
+    "id": 2186,
+    "stationAddress": "双流区牧华路三段"
+  },
+  {
+    "parkingNum": 0,
+    "freeVehicle": 0,
+    "latitude": "35.046968",
+    "longtitude": "112.636668",
+    "vehicleNum": 0,
+    "stationName": "高新区中王村站",
+    "id": 2192,
+    "stationAddress": "河南省济源市轵城镇高新区中王村委会向北200米路西"
+  },
+  {
+    "parkingNum": 0,
+    "freeVehicle": 0,
+    "latitude": "35.070691",
+    "longtitude": "112.560605",
+    "vehicleNum": 0,
+    "stationName": "济源富士康站",
+    "id": 2208,
+    "stationAddress": "河南省济源市轵城镇南环路与虎岭一号线交叉口向北100米路西"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.592713",
+    "longtitude": "106.564756",
+    "vehicleNum": 0,
+    "stationName": "国家电网客服中心",
+    "id": 2219,
+    "stationAddress": "江北区五红支路国家电网客服中心内"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.781084",
+    "longtitude": "113.710439",
+    "vehicleNum": 0,
+    "stationName": "联盟国际商务大厦站",
+    "id": 2224,
+    "stationAddress": "河南省郑州市金水区姚砦路黄河路西北角（黄河路往北进入姚砦路北10米路西）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "34.754063",
+    "longtitude": "113.743775",
+    "vehicleNum": 0,
+    "stationName": "商都路满圆红木城站",
+    "id": 2225,
+    "stationAddress": "河南省郑州市金水区商都路与白庄街交叉口东南角（满圆红木城停车场）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "30.81585",
+    "longtitude": "103.912657",
+    "vehicleNum": 0,
+    "stationName": "郫县高铁站",
+    "id": 2226,
+    "stationAddress": "郫都区红光大道与望丛中路交叉口围墙内"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.681416",
+    "longtitude": "103.933561",
+    "vehicleNum": 0,
+    "stationName": "非遗博览园",
+    "id": 2230,
+    "stationAddress": "青羊区文家街道光耀三路蓉西阳光"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "34.783564",
+    "longtitude": "113.688258",
+    "vehicleNum": 0,
+    "stationName": "正道中环百货站",
+    "id": 2231,
+    "stationAddress": "河南省郑州市金水区花园路红旗路北10米路西（正道中环百货广场）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.760705",
+    "longtitude": "113.633807",
+    "vehicleNum": 0,
+    "stationName": "碧沙岗公园站",
+    "id": 2232,
+    "stationAddress": "河南省郑州市中原区建设西路嵩山北路西100米路南（碧沙广场地面停车场）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.541634",
+    "longtitude": "106.52908",
+    "vehicleNum": 0,
+    "stationName": "大黄路",
+    "id": 2234,
+    "stationAddress": "渝中区大黄路公交车站天澄堡社区旁"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "34.772143",
+    "longtitude": "113.774131",
+    "vehicleNum": 0,
+    "stationName": "绿地原盛国际站",
+    "id": 2235,
+    "stationAddress": "河南省郑州市金水区东风南路与祥盛街交叉口东"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.598279",
+    "longtitude": "106.324819",
+    "vehicleNum": 0,
+    "stationName": "西湖泡泡街",
+    "id": 2252,
+    "stationAddress": "沙坪坝区大学城东路21号西城的湖盼达专用停车场（科技学院西门斜对面）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.726436",
+    "longtitude": "113.613607",
+    "vehicleNum": 0,
+    "stationName": "万科民安星辰站",
+    "id": 2260,
+    "stationAddress": "河南省郑州市中原区航海路与桐柏路交汇处西侧（万科民安星辰销售中心门口）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.579568",
+    "longtitude": "106.516432",
+    "vehicleNum": 0,
+    "stationName": "陶然大观园",
+    "id": 2267,
+    "stationAddress": "江北区陶然大观园重庆首席门前广场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.547466",
+    "longtitude": "106.330065",
+    "vehicleNum": 0,
+    "stationName": "金凤石墨烯产业园",
+    "id": 2272,
+    "stationAddress": "九龙坡区金凤镇金凤电子产业园二期石墨烯产业园厂区大门内"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.520193",
+    "longtitude": "104.79203",
+    "vehicleNum": 0,
+    "stationName": "立宇红星美凯龙",
+    "id": 2273,
+    "stationAddress": "四川省绵阳市游仙区游仙路315号红星美凯龙停车场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.791942",
+    "longtitude": "113.702039",
+    "vehicleNum": 0,
+    "stationName": "天地粤海酒店站",
+    "id": 2305,
+    "stationAddress": "河南省金水区农业路经二路东南天地粤海酒店停车场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.811405",
+    "longtitude": "106.537964",
+    "vehicleNum": 0,
+    "stationName": "云计算商业街",
+    "id": 2325,
+    "stationAddress": "北碚区水土镇方正大道云计算商业街建设银行旁露天停车场"
+  },
+  {
+    "parkingNum": 12,
+    "freeVehicle": 0,
+    "latitude": "34.810672",
+    "longtitude": "113.614307",
+    "vehicleNum": 0,
+    "stationName": "彩虹加气站",
+    "id": 2335,
+    "stationAddress": "河南省郑州市惠济区北三环电厂路南200米东（京广彩虹加气站内）"
+  },
+  {
+    "parkingNum": 3,
+    "freeVehicle": 0,
+    "latitude": "31.572048",
+    "longtitude": "104.699994",
+    "vehicleNum": 0,
+    "stationName": "万合龙城",
+    "id": 2350,
+    "stationAddress": "四川省绵阳市涪城区龙门镇万合龙城接待中心路边停车位"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.43879",
+    "longtitude": "104.73464",
+    "vehicleNum": 0,
+    "stationName": "天泰剑南国际食品城",
+    "id": 2352,
+    "stationAddress": "四川省绵阳市涪城区御中路219号"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "34.753838",
+    "longtitude": "113.587748",
+    "vehicleNum": 0,
+    "stationName": "中原路西三环站",
+    "id": 2355,
+    "stationAddress": "河南省郑州市中原区中原路与西三环交叉口向西200米路北如家酒店停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "30.819505",
+    "longtitude": "104.164718",
+    "vehicleNum": 0,
+    "stationName": "海伦城市广场",
+    "id": 2244,
+    "stationAddress": "新都区博海路海伦城市广场（中国银行门口）"
+  },
+  {
+    "parkingNum": 8,
+    "freeVehicle": 0,
+    "latitude": "30.719102",
+    "longtitude": "104.005363",
+    "vehicleNum": 0,
+    "stationName": "郦湾国际酒店",
+    "id": 2265,
+    "stationAddress": "金牛区兴盛西路郦湾国际酒店"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "34.769499",
+    "longtitude": "113.756722",
+    "vehicleNum": 0,
+    "stationName": "永和国际广场站",
+    "id": 2275,
+    "stationAddress": "河南省郑州市金水区金水东路与民生路交叉口，向南50米路西（永和国际广场停车场）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.760954",
+    "longtitude": "113.763621",
+    "vehicleNum": 0,
+    "stationName": "农业南路商鼎路站",
+    "id": 2284,
+    "stationAddress": "河南省郑州市金水区农业南路商鼎路交叉口西南停车场（汉庭商鼎路店）"
+  },
+  {
+    "parkingNum": 100,
+    "freeVehicle": 0,
+    "latitude": "29.528918",
+    "longtitude": "106.676975",
+    "vehicleNum": 0,
+    "stationName": "重庆隆丰维修服务站",
+    "id": 2291,
+    "stationAddress": "重庆市南岸区长生桥镇江峡路隆丰汽车维修场内"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "30.743155",
+    "longtitude": "103.932672",
+    "vehicleNum": 0,
+    "stationName": "顺江小区",
+    "id": 2303,
+    "stationAddress": "温江区顺源环街西200米（顺江酒楼旁停车场内）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.536996",
+    "longtitude": "104.562541",
+    "vehicleNum": 0,
+    "stationName": "优胜美地酒店已关闭",
+    "id": 2314,
+    "stationAddress": "四川省绵阳市安州区文胜路西段优胜美地停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.443944",
+    "longtitude": "106.488726",
+    "vehicleNum": 0,
+    "stationName": "融创春晖十里",
+    "id": 2319,
+    "stationAddress": "重庆市大渡口区融创春晖十里销售中心前"
+  },
+  {
+    "parkingNum": 1,
+    "freeVehicle": 0,
+    "latitude": "35.109083",
+    "longtitude": "112.647345",
+    "vehicleNum": 0,
+    "stationName": "泉水湾欢乐水世界站",
+    "id": 2340,
+    "stationAddress": "河南省济源市济渎路与泉水湾南路交叉口向北500米路西"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.47331",
+    "longtitude": "113.842284",
+    "vehicleNum": 0,
+    "stationName": "和昌盛世城邦站",
+    "id": 2347,
+    "stationAddress": "河南省郑州市新郑市航空港区航兴路与新港十一路交会处"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.623767",
+    "longtitude": "104.072727",
+    "vehicleNum": 0,
+    "stationName": "凯宾斯基饭店",
+    "id": 2245,
+    "stationAddress": "武侯区凯宾斯基饭店"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.436265",
+    "longtitude": "104.7776",
+    "vehicleNum": 0,
+    "stationName": "南湖汽车站",
+    "id": 2246,
+    "stationAddress": "四川省绵阳市经开区南湖汽车站旁50米停车场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.492661",
+    "longtitude": "104.738093",
+    "vehicleNum": 0,
+    "stationName": "闽商酒店",
+    "id": 2249,
+    "stationAddress": "四川省绵阳市涪城区一环路北段(玉女路38号)平政汽车站旁闽商酒店内停车场 "
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.478424",
+    "longtitude": "104.773809",
+    "vehicleNum": 0,
+    "stationName": "海上海水晶酒店",
+    "id": 2257,
+    "stationAddress": "四川省绵阳市游仙区剑南路东段海上海水晶酒店内停车场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.416144",
+    "longtitude": "106.622928",
+    "vehicleNum": 0,
+    "stationName": "惠金大酒店",
+    "id": 2262,
+    "stationAddress": "重庆市巴南区界石镇数码产业园B区（惠金大酒店门口）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.548915",
+    "longtitude": "106.532386",
+    "vehicleNum": 0,
+    "stationName": "肖家湾",
+    "id": 2279,
+    "stationAddress": "渝中区肖家湾公交车站7天酒店后面"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.664468",
+    "longtitude": "113.651688",
+    "vehicleNum": 0,
+    "stationName": "万科百荣荣寓站",
+    "id": 2292,
+    "stationAddress": "河南省郑州市二七区大学路与南四环交叉口向南二百米路东（万科·百荣荣寓售楼部停车场）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.452575",
+    "longtitude": "104.701011",
+    "vehicleNum": 0,
+    "stationName": "石桥铺青年公寓站",
+    "id": 2294,
+    "stationAddress": "四川省绵阳市高新区（绵阳）科技城跨境电子商务产业园青年公寓停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "34.761429",
+    "longtitude": "113.719796",
+    "vehicleNum": 0,
+    "stationName": "银基王朝三期站",
+    "id": 2299,
+    "stationAddress": "河南省金水区福元路英协路银基王朝三期南侧"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.374895",
+    "longtitude": "106.539505",
+    "vehicleNum": 0,
+    "stationName": "启迪协信星澜汇",
+    "id": 2328,
+    "stationAddress": "巴南区启迪协信星澜汇营销中心门前广场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.810838",
+    "longtitude": "113.574695",
+    "vehicleNum": 0,
+    "stationName": "中原银行瑞达路站",
+    "id": 2324,
+    "stationAddress": "河南省郑州市中原区瑞达路玉兰街西北角"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.641353",
+    "longtitude": "106.537794",
+    "vehicleNum": 0,
+    "stationName": "启迪协信春山台",
+    "id": 2330,
+    "stationAddress": "渝北区镜泊东路启迪协信春山台营销中心门前"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.848663",
+    "longtitude": "113.683327",
+    "vehicleNum": 0,
+    "stationName": "坤亚柏悦刘庄地铁站",
+    "id": 2333,
+    "stationAddress": "河南省郑州市金水区花园北路与龙门路向西100米路北（坤亚柏悦酒店内）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "34.810517",
+    "longtitude": "113.678343",
+    "vehicleNum": 0,
+    "stationName": "圣菲城站",
+    "id": 2353,
+    "stationAddress": "河南省郑州市金水区徐寨路渠东路交叉口银河停车场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.545028",
+    "longtitude": "104.323619",
+    "vehicleNum": 0,
+    "stationName": "桃花故里",
+    "id": 2255,
+    "stationAddress": "龙泉驿区中街113号山泉镇政府街对面"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.883307",
+    "longtitude": "113.650267",
+    "vehicleNum": 0,
+    "stationName": "万科天伦紫台站",
+    "id": 2261,
+    "stationAddress": "河南省郑州市惠济区文化路与大河路交汇处东南角（万科天伦紫台售楼中心）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.458006",
+    "longtitude": "106.48484",
+    "vehicleNum": 0,
+    "stationName": "钰鑫集团",
+    "id": 2274,
+    "stationAddress": "大渡口区金桥路16号金鑫大厦（金苑食府门口）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.418071",
+    "longtitude": "104.751272",
+    "vehicleNum": 0,
+    "stationName": "科伦医贸站",
+    "id": 2276,
+    "stationAddress": "四川省绵阳市涪城区范文路157号科伦医贸内停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.578092",
+    "longtitude": "106.475348",
+    "vehicleNum": 0,
+    "stationName": "沙滨路桥下停车场",
+    "id": 2277,
+    "stationAddress": "沙滨路秋水与宝嘉段桥下停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "34.768096",
+    "longtitude": "113.710375",
+    "vehicleNum": 0,
+    "stationName": "燕庄地铁站",
+    "id": 2296,
+    "stationAddress": "河南省金水区金水路未来路交叉口地铁B1出口（大浪淘沙停车场）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.870985",
+    "longtitude": "104.205245",
+    "vehicleNum": 0,
+    "stationName": "佳飞国际建材市场",
+    "id": 2348,
+    "stationAddress": "青白江区八阵大道佳飞国际建材市场B区内"
+  },
+  {
+    "parkingNum": 6,
+    "freeVehicle": 0,
+    "latitude": "29.765477",
+    "longtitude": "106.545115",
+    "vehicleNum": 0,
+    "stationName": "两江健康科技城",
+    "id": 2322,
+    "stationAddress": "北碚区悦复大道两江健康科技城门前"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.589262",
+    "longtitude": "106.317934",
+    "vehicleNum": 0,
+    "stationName": "启迪协信城立方",
+    "id": 2334,
+    "stationAddress": "沙坪坝区大学城启迪协信城立方西区商业二对街画线停车位"
+  },
+  {
+    "parkingNum": 100,
+    "freeVehicle": 0,
+    "latitude": "29.762977",
+    "longtitude": "106.478411",
+    "vehicleNum": 0,
+    "stationName": "力荐汽车维修",
+    "id": 2349,
+    "stationAddress": "重庆市北碚区蔡家岗镇盈田光电工谷19栋"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "29.688412",
+    "longtitude": "106.614962",
+    "vehicleNum": 0,
+    "stationName": "旭辉朗香郡临时站点",
+    "id": 2254,
+    "stationAddress": "渝北区回兴宝桐路2号旭辉朗香郡小区内健身盒子旁"
+  },
+  {
+    "parkingNum": 8,
+    "freeVehicle": 0,
+    "latitude": "29.580499",
+    "longtitude": "106.519404",
+    "vehicleNum": 0,
+    "stationName": "陶然半山森林酒店",
+    "id": 2268,
+    "stationAddress": "江北区鸿恩寺公园陶然半山森林酒店内"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.718146",
+    "longtitude": "113.697443",
+    "vehicleNum": 0,
+    "stationName": "汇力汽修站",
+    "id": 2293,
+    "stationAddress": "河南省郑州市管城区城东路与紫辰路交叉口东北角（汇力汽修院内停车场）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.748343",
+    "longtitude": "113.670903",
+    "vehicleNum": 0,
+    "stationName": "火车站银基商贸城站",
+    "id": 2298,
+    "stationAddress": "河南省二七区一马路菜市街银基商贸城西侧 "
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.276953",
+    "longtitude": "120.220417",
+    "vehicleNum": 0,
+    "stationName": "景芳欧凯大酒店站",
+    "id": 2320,
+    "stationAddress": "昙花庵路58号欧凯大酒店门口"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.821925",
+    "longtitude": "113.645426",
+    "vehicleNum": 0,
+    "stationName": "7天酒店索凌路站",
+    "id": 2326,
+    "stationAddress": "河南省郑州市金水区索凌路信基路丁字路口东"
+  },
+  {
+    "parkingNum": 12,
+    "freeVehicle": 0,
+    "latitude": "29.656047",
+    "longtitude": "106.522361",
+    "vehicleNum": 0,
+    "stationName": "启迪协信星都会",
+    "id": 2329,
+    "stationAddress": "渝北区金山大道启迪协信星都会营销中心停车场"
+  },
+  {
+    "parkingNum": 2,
+    "freeVehicle": 0,
+    "latitude": "35.093417",
+    "longtitude": "112.619592",
+    "vehicleNum": 0,
+    "stationName": "光光酱炒鸡河合店站",
+    "id": 2332,
+    "stationAddress": "河南省济源市愚公路与河合北街交叉口向西300米路东（光光酱炒鸡店门口）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.175417",
+    "longtitude": "120.105863",
+    "vehicleNum": 0,
+    "stationName": "宋城景区站",
+    "id": 2336,
+    "stationAddress": "之江路148号，宋城三号停车场，宋城千古情主题酒店九寨楼右侧"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "30.580216",
+    "longtitude": "103.966316",
+    "vehicleNum": 0,
+    "stationName": "空港大酒店",
+    "id": 2357,
+    "stationAddress": "双流区成都空港大酒店（机场北二路）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.613993",
+    "longtitude": "106.335361",
+    "vehicleNum": 0,
+    "stationName": "鼎吉驾校",
+    "id": 2253,
+    "stationAddress": "重庆市沙坪坝区陈家桥轻轨站出口20米"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.523231",
+    "longtitude": "106.584742",
+    "vehicleNum": 0,
+    "stationName": "四公里枢纽站",
+    "id": 2258,
+    "stationAddress": "南岸区烟雨路四公里枢纽站出租车入口处"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.638184",
+    "longtitude": "106.540587",
+    "vehicleNum": 0,
+    "stationName": "升伟晶石公元",
+    "id": 2259,
+    "stationAddress": "重庆市渝北区金开大道升伟晶石公元招商中心前"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "30.820412",
+    "longtitude": "103.985506",
+    "vehicleNum": 0,
+    "stationName": "团结供销社",
+    "id": 2264,
+    "stationAddress": "郫县团结镇政府旁团结供销社停车场内"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.753234",
+    "longtitude": "113.713054",
+    "vehicleNum": 0,
+    "stationName": "中原国际博览中心站",
+    "id": 2266,
+    "stationAddress": "河南省郑州市金水区未来路郑汴路交叉口东（中原国际博览中心停车场）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.70108",
+    "longtitude": "106.611661",
+    "vehicleNum": 0,
+    "stationName": "金兰路停车场",
+    "id": 2270,
+    "stationAddress": "重庆市渝北区凯歌三支路金兰路公共停车场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.545168",
+    "longtitude": "106.31982",
+    "vehicleNum": 0,
+    "stationName": "金凤电子产业园",
+    "id": 2271,
+    "stationAddress": "九龙坡区金凤镇凤笙路金凤电子产业园园区宿舍大门内"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.388829",
+    "longtitude": "106.507381",
+    "vehicleNum": 0,
+    "stationName": "大江轻轨站",
+    "id": 2278,
+    "stationAddress": "巴南区大江轻轨站和顺园小区广场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.56246",
+    "longtitude": "106.621744",
+    "vehicleNum": 0,
+    "stationName": "重庆海昌加勒比海水世界",
+    "id": 2283,
+    "stationAddress": "南岸区海昌加勒比营销中心前"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "34.759213",
+    "longtitude": "113.671387",
+    "vehicleNum": 0,
+    "stationName": "二七广场北京华联站",
+    "id": 2286,
+    "stationAddress": "河南省郑州市二七区解放路正兴街交叉口北京华联停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "34.709242",
+    "longtitude": "113.634687",
+    "vehicleNum": 0,
+    "stationName": "中原百姓广场站",
+    "id": 2341,
+    "stationAddress": "河南省郑州市二七区嵩山南路与南三环中原百姓广场西门内桥下停车场"
+  },
+  {
+    "parkingNum": 0,
+    "freeVehicle": 0,
+    "latitude": "29.576883",
+    "longtitude": "106.536384",
+    "vehicleNum": 0,
+    "stationName": "重庆凯峰维修服务站",
+    "id": 2301,
+    "stationAddress": "凯峰维修服务站点"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.749666",
+    "longtitude": "113.745489",
+    "vehicleNum": 0,
+    "stationName": "银河来旺达酒店站",
+    "id": 2304,
+    "stationAddress": "河南省郑州市管城回族区七里河南路与商都路向南650米"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "34.488099",
+    "longtitude": "113.553313",
+    "vehicleNum": 0,
+    "stationName": "银基国际旅游度假区站",
+    "id": 2313,
+    "stationAddress": "河南省郑州市新密市乐海水世界"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.742795",
+    "longtitude": "113.59354",
+    "vehicleNum": 0,
+    "stationName": "陇海路西三环站",
+    "id": 2346,
+    "stationAddress": "河南省郑州市中原区陇海路与西三环交叉口东北角陇海西路停车场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.474956",
+    "longtitude": "104.075817",
+    "vehicleNum": 0,
+    "stationName": "麓湖生态城",
+    "id": 2359,
+    "stationAddress": "双流区华阳镇街道四方碑"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "30.316372",
+    "longtitude": "120.272352",
+    "vehicleNum": 0,
+    "stationName": "凯瑞大酒店站",
+    "id": 2360,
+    "stationAddress": "杭海路1199号凯瑞大酒店停车场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.628329",
+    "longtitude": "106.345857",
+    "vehicleNum": 0,
+    "stationName": "东林广场",
+    "id": 2282,
+    "stationAddress": "沙坪坝区陈家桥街道国鑫路东林广场旁露天停车场"
+  },
+  {
+    "parkingNum": 8,
+    "freeVehicle": 0,
+    "latitude": "34.833463",
+    "longtitude": "113.687098",
+    "vehicleNum": 0,
+    "stationName": "美驰名车广场店",
+    "id": 2285,
+    "stationAddress": "河南省郑州市金水区花园路三全路交叉口西南角（美驰名车广场内）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.779399",
+    "longtitude": "113.813075",
+    "vehicleNum": 0,
+    "stationName": "市体育中心地铁站",
+    "id": 2287,
+    "stationAddress": "河南省郑州市金水区学理路明理路西100米路北学理路停车场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.454803",
+    "longtitude": "104.69148",
+    "vehicleNum": 0,
+    "stationName": "绵阳出口加工区站",
+    "id": 2295,
+    "stationAddress": "四川省绵阳市高新区飞云大道东段261号绵阳出口加工区外停车场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.516549",
+    "longtitude": "104.733085",
+    "vehicleNum": 0,
+    "stationName": "微客静享酒店",
+    "id": 2302,
+    "stationAddress": "四川省绵阳市涪城区圣水南街恒星商苑旁微客静享酒店内停车场"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.830527",
+    "longtitude": "113.666656",
+    "vehicleNum": 0,
+    "stationName": "中鼎花园站",
+    "id": 2344,
+    "stationAddress": "河南省郑州市文化路国基路北600米路西（银河路，张家村停车场）"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "30.713994",
+    "longtitude": "104.074353",
+    "vehicleNum": 0,
+    "stationName": "北城盛世",
+    "id": 2345,
+    "stationAddress": "金牛区五块石智业福地西（赛云台北路西）"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "30.641289",
+    "longtitude": "104.333343",
+    "vehicleNum": 0,
+    "stationName": "洛带古镇",
+    "id": 2256,
+    "stationAddress": "龙泉驿区三娥街五凤楼广场停车场"
+  },
+  {
+    "parkingNum": 20,
+    "freeVehicle": 0,
+    "latitude": "29.538723",
+    "longtitude": "106.521211",
+    "vehicleNum": 0,
+    "stationName": "长城饭店",
+    "id": 2269,
+    "stationAddress": "重庆市渝中区大坪长江二路174号长城饭店楼后停车场"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "29.469195",
+    "longtitude": "106.509485",
+    "vehicleNum": 0,
+    "stationName": "宗申金蓝湾",
+    "id": 2280,
+    "stationAddress": "巴南区巴滨路宗申金蓝湾销售中心前"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "29.724688",
+    "longtitude": "106.464834",
+    "vehicleNum": 0,
+    "stationName": "重庆刑侦总队",
+    "id": 2281,
+    "stationAddress": "北碚区蔡家岗镇同兴北路重庆刑侦总队北门往上100米露天道路上"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "34.743284",
+    "longtitude": "113.651016",
+    "vehicleNum": 0,
+    "stationName": "欧亚大酒店站",
+    "id": 2297,
+    "stationAddress": "河南省二七区大学路与陇海路交叉口东北角（欧亚大酒店院内停车场）"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.502123",
+    "longtitude": "104.728035",
+    "vehicleNum": 0,
+    "stationName": "香溪蓝山",
+    "id": 2327,
+    "stationAddress": "四川省绵阳市科创园区城郊乡创业南路香溪蓝山内9栋背后停车位"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "31.425473",
+    "longtitude": "104.769833",
+    "vehicleNum": 0,
+    "stationName": "四川文化艺术学院",
+    "id": 2338,
+    "stationAddress": "四川省绵阳市经开区机场东路83号国税局旁停车场"
+  },
+  {
+    "parkingNum": 5,
+    "freeVehicle": 0,
+    "latitude": "31.460027",
+    "longtitude": "104.663333",
+    "vehicleNum": 0,
+    "stationName": "莱鸿汽修厂",
+    "id": 2339,
+    "stationAddress": "四川省绵阳市高新区永兴镇二环路西段温泉凯旋大道东南莱鸿汽修厂内"
+  },
+  {
+    "parkingNum": 10,
+    "freeVehicle": 0,
+    "latitude": "31.628285",
+    "longtitude": "104.683101",
+    "vehicleNum": 0,
+    "stationName": "加勒比水上乐园",
+    "id": 2343,
+    "stationAddress": "绵江路老收费站加勒比水上乐园正门路边停车位"
+  },
+  {
+    "parkingNum": 15,
+    "freeVehicle": 0,
+    "latitude": "34.789732",
+    "longtitude": "113.777015",
+    "vehicleNum": 0,
+    "stationName": "相济路心怡路站",
+    "id": 2356,
+    "stationAddress": "河南省郑州市金水区相济路与心怡路交叉口路北院内"
+  }
+]
